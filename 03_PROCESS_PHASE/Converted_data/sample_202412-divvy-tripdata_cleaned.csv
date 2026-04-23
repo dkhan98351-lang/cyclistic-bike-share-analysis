@@ -1,0 +1,100 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual,ride_length,day_of_the_week,month
+6C960DEB4F78854E,electric_bike,38:35.0,48:45.8,Halsted St & Roscoe St,TA1309000025,Clark St & Winnemac Ave,TA1309000035,41.9436,-87.6491,41.9733,-87.6679,member,0:10:11,7,12
+C0913EEB2834E7A2,classic_bike,41:26.5,47:33.9,Clark St & Wellington Ave,TA1307000136,Halsted St & Roscoe St,TA1309000025,41.9365,-87.6475,41.9436,-87.6491,member,0:06:07,7,12
+848A37DD4723078A,classic_bike,41:01.7,52:45.1,Sheridan Rd & Montrose Ave,TA1307000107,Broadway & Barry Ave,13137,41.9617,-87.6546,41.9376,-87.6441,member,0:11:43,5,12
+3FA09C762ECB48BD,electric_bike,07:27.5,10:54.1,Aberdeen St & Jackson Blvd,13157,Green St & Randolph St*,chargingstx3,41.8777,-87.6548,41.8836,-87.6486,member,0:03:27,6,12
+E60317ADD1A87488,electric_bike,17:55.1,27:32.6,Paulina St & Flournoy St,KA1504000104,Fairfield Ave & Roosevelt Rd,KA1504000102,41.8731,-87.6691,41.8666,-87.6945,member,0:09:38,1,12
+A83DBA54802B4618,electric_bike,24:46.7,33:21.7,Ravenswood Ave & Lawrence Ave,TA1309000066,Kedzie Ave & Leland Ave,KA1504000126,41.9684,-87.6742,41.9667,-87.7081,member,0:08:35,1,12
+D3D6DAF0AB53F245,electric_bike,56:35.9,04:09.3,Paulina St & Flournoy St,KA1504000104,Fairfield Ave & Roosevelt Rd,KA1504000102,41.8731,-87.6691,41.8666,-87.6945,member,0:07:33,2,12
+3309E4E902565E04,electric_bike,26:13.3,33:29.6,Paulina St & Flournoy St,KA1504000104,Fairfield Ave & Roosevelt Rd,KA1504000102,41.8731,-87.6691,41.8666,-87.6945,member,0:07:16,5,12
+805D6F3B51AD91AF,electric_bike,30:17.8,44:23.7,Paulina St & Flournoy St,KA1504000104,Michigan Ave & 18th St,13150,41.8731,-87.6691,41.8579,-87.6243,member,0:14:06,7,12
+8560580463C7E866,electric_bike,38:40.0,41:35.3,Rockwell St & Archer Ave,21379,Leavitt St & Archer Ave,KA1503000068,41.8227,-87.6898,41.8288,-87.6806,member,0:02:55,7,12
+10BB8E0B23F267E7,electric_bike,28:03.8,30:31.3,Rockwell St & Archer Ave,21379,Leavitt St & Archer Ave,KA1503000068,41.8227,-87.6898,41.8288,-87.6806,member,0:02:28,5,12
+C448A2AA3B4B5FBF,electric_bike,54:32.0,01:59.6,Damen Ave & Foster Ave,KA1504000149,Ravenswood Ave & Berteau Ave,TA1309000018,41.9758,-87.6795,41.9579,-87.6736,casual,0:07:28,4,12
+64C4DF768EE87149,classic_bike,59:14.3,10:32.6,Rockwell St & Archer Ave,21379,Hoyne Ave & 47th St,KA1504000091,41.8227,-87.6898,41.8082,-87.6772,casual,0:11:18,4,12
+85DF6C5DF9B938F3,classic_bike,09:47.5,13:25.9,Damen Ave & Leland Ave,TA1307000158,Damen Ave & Foster Ave,KA1504000149,41.9671,-87.6791,41.9758,-87.6795,member,0:03:38,5,12
+1138DA7008BB8E07,classic_bike,07:15.3,11:51.9,Damen Ave & Leland Ave,TA1307000158,Damen Ave & Foster Ave,KA1504000149,41.9671,-87.6791,41.9758,-87.6795,member,0:04:37,2,12
+CCDF19B04142D48C,classic_bike,45:03.2,49:46.4,Damen Ave & Leland Ave,TA1307000158,Damen Ave & Foster Ave,KA1504000149,41.9671,-87.6791,41.9758,-87.6795,member,0:04:43,3,12
+BFE885EE4564ED6B,electric_bike,25:18.8,30:54.6,Ravenswood Ave & Lawrence Ave,TA1309000066,Damen Ave & Foster Ave,KA1504000149,41.9684,-87.6742,41.9758,-87.6795,casual,0:05:36,3,12
+BAA3F48DBCF7E925,classic_bike,07:56.2,11:36.6,Damen Ave & Leland Ave,TA1307000158,Damen Ave & Foster Ave,KA1504000149,41.9671,-87.6791,41.9758,-87.6795,member,0:03:40,1,12
+7FDF23CD93FEF229,classic_bike,14:37.1,18:42.5,Damen Ave & Leland Ave,TA1307000158,Damen Ave & Foster Ave,KA1504000149,41.9671,-87.6791,41.9758,-87.6795,member,0:04:05,6,12
+59EB6A7A67280C15,classic_bike,55:39.8,00:12.4,Damen Ave & Leland Ave,TA1307000158,Damen Ave & Foster Ave,KA1504000149,41.9671,-87.6791,41.9758,-87.6795,member,0:04:33,7,12
+CF9994425032DBD2,classic_bike,26:06.9,41:49.0,Lincoln Ave & Byron St,23002,Damen Ave & Foster Ave,KA1504000149,41.9524,-87.6773,41.9758,-87.6795,member,0:15:42,4,12
+C17A937D79ED1DF7,classic_bike,48:13.0,53:16.5,Ravenswood Ave & Lawrence Ave,TA1309000066,Damen Ave & Foster Ave,KA1504000149,41.9684,-87.6742,41.9758,-87.6795,member,0:05:04,4,12
+0A33E7ED52E0B750,classic_bike,18:22.8,23:08.3,Damen Ave & Leland Ave,TA1307000158,Damen Ave & Foster Ave,KA1504000149,41.9671,-87.6791,41.9758,-87.6795,member,0:04:46,5,12
+8162488B04E3B1FB,electric_bike,55:28.9,59:07.0,Ravenswood Ave & Lawrence Ave,TA1309000066,Damen Ave & Foster Ave,KA1504000149,41.9684,-87.6742,41.9758,-87.6795,member,0:03:38,4,12
+4841AB6CDA3205F2,electric_bike,22:47.7,25:46.5,Ravenswood Ave & Lawrence Ave,TA1309000066,Damen Ave & Foster Ave,KA1504000149,41.9684,-87.6742,41.9758,-87.6795,member,0:02:59,6,12
+F48E4964FD1670A3,electric_bike,07:15.6,10:39.4,Ravenswood Ave & Lawrence Ave,TA1309000066,Damen Ave & Foster Ave,KA1504000149,41.9684,-87.6742,41.9758,-87.6795,member,0:03:24,3,12
+5481B39C33F3DAFB,electric_bike,42:16.6,45:48.2,Damen Ave & Leland Ave,TA1307000158,Damen Ave & Foster Ave,KA1504000149,41.9671,-87.6791,41.9758,-87.6795,member,0:03:32,1,12
+0BCDE48B8F481E9A,classic_bike,44:06.8,46:21.5,Aberdeen St & Jackson Blvd,13157,Peoria St & Jackson Blvd,13158,41.8777,-87.6548,41.8776,-87.6496,member,0:02:15,7,12
+463D5BCFD178724E,classic_bike,04:57.7,12:36.1,Clark St & Wellington Ave,TA1307000136,Southport Ave & Wellington Ave,TA1307000006,41.9365,-87.6475,41.9358,-87.6636,member,0:07:38,5,12
+5D0B24A361477C8F,electric_bike,52:17.2,56:32.9,Clark St & Armitage Ave,13146,Stockton Dr & Wrightwood Ave,13276,41.9183,-87.6363,41.9313,-87.6387,member,0:04:16,1,12
+84BE9A686995487F,electric_bike,07:25.7,11:22.3,Clark St & Armitage Ave,13146,Stockton Dr & Wrightwood Ave,13276,41.9183,-87.6363,41.9313,-87.6387,member,0:03:57,6,12
+EA1A3D1F102ED624,electric_bike,03:57.1,10:27.2,Rush St & Hubbard St,KA1503000044,Rush St & Cedar St,KA1504000133,41.8902,-87.6263,41.9023,-87.6277,member,0:06:30,5,12
+1DCF1D41A81825C2,classic_bike,25:06.4,31:28.3,Clark St & Armitage Ave,13146,Stockton Dr & Wrightwood Ave,13276,41.9183,-87.6363,41.9313,-87.6387,member,0:06:22,1,12
+B29C7B4B4F88A42F,classic_bike,12:57.6,22:32.5,Ogden Ave & Chicago Ave,TA1305000020,Wells St & Walton St,TA1306000011,41.8964,-87.6541,41.8999,-87.6344,casual,0:09:35,2,12
+3FBBD694E5035F9C,classic_bike,39:51.2,43:48.7,2112 W Peterson Ave,KA1504000155,Peterson/Ridge Metra,24458,41.9912,-87.6836,41.9918,-87.6749,member,0:03:58,3,12
+6F0F9BD73B6D7D43,classic_bike,09:44.5,31:36.9,Paulina St & Flournoy St,KA1504000104,Wells St & Walton St,TA1306000011,41.8731,-87.6691,41.8999,-87.6344,member,0:21:52,3,12
+C91D66C1D189D6FE,electric_bike,23:04.4,48:11.8,Franklin St & Jackson Blvd,TA1305000025,Rush St & Cedar St,KA1504000133,41.8777,-87.6353,41.9023,-87.6277,casual,0:25:07,7,12
+3C94E9A99CE605C7,classic_bike,47:14.9,24:20.2,Michigan Ave & Ida B Wells Dr,TA1305000010,Wells St & Walton St,TA1306000011,41.8762,-87.6245,41.8999,-87.6344,casual,0:37:05,3,12
+33B7EAB9403B0749,classic_bike,13:36.0,45:38.2,Franklin St & Jackson Blvd,TA1305000025,Stockton Dr & Wrightwood Ave,13276,41.8777,-87.6353,41.9313,-87.6387,member,0:32:02,4,12
+F25C9BF034B75CFD,classic_bike,08:06.5,44:22.8,Franklin St & Jackson Blvd,TA1305000025,Stockton Dr & Wrightwood Ave,13276,41.8777,-87.6353,41.9313,-87.6387,member,0:36:16,2,12
+7434B1AC95BC9DF3,electric_bike,43:05.5,54:47.5,Franklin St & Jackson Blvd,TA1305000025,Rush St & Cedar St,KA1504000133,41.8777,-87.6353,41.9023,-87.6277,member,0:11:42,7,12
+1AE547C4656D82E9,classic_bike,53:07.7,01:25.4,Kingsbury St & Kinzie St,KA1503000043,Wells St & Walton St,TA1306000011,41.8892,-87.6385,41.8999,-87.6344,member,0:08:18,2,12
+95C2B7F127CA2804,classic_bike,22:41.0,30:19.2,Kingsbury St & Kinzie St,KA1503000043,Wells St & Walton St,TA1306000011,41.8892,-87.6385,41.8999,-87.6344,member,0:07:38,4,12
+2A44B21FCA90915B,electric_bike,06:32.8,13:19.2,Kingsbury St & Kinzie St,KA1503000043,Rush St & Cedar St,KA1504000133,41.8892,-87.6385,41.9023,-87.6277,casual,0:06:46,2,12
+5B0179466949064C,classic_bike,01:24.0,38:26.4,Wilton Ave & Belmont Ave,TA1307000134,Stockton Dr & Wrightwood Ave,13276,41.9402,-87.6529,41.9313,-87.6387,casual,0:37:02,1,12
+CCA1C6C0AE1503CC,classic_bike,27:01.4,40:35.2,Larrabee St & Webster Ave,13193,Rush St & Cedar St,KA1504000133,41.9218,-87.6441,41.9023,-87.6277,casual,0:13:34,6,12
+A78E10C5F73EF543,electric_bike,39:42.1,47:13.0,Kingsbury St & Kinzie St,KA1503000043,Rush St & Cedar St,KA1504000133,41.8892,-87.6385,41.9023,-87.6277,casual,0:07:31,7,12
+5E37B109A9C72648,electric_bike,26:11.8,33:55.3,Kingsbury St & Kinzie St,KA1503000043,Rush St & Cedar St,KA1504000133,41.8892,-87.6385,41.9023,-87.6277,casual,0:07:44,3,12
+5364EA4F87193CD8,classic_bike,58:47.5,06:39.6,Larrabee St & Webster Ave,13193,Stockton Dr & Wrightwood Ave,13276,41.9218,-87.6441,41.9313,-87.6387,member,0:07:52,6,12
+B744786340310F74,electric_bike,45:53.0,54:55.1,Kingsbury St & Kinzie St,KA1503000043,Rush St & Cedar St,KA1504000133,41.8892,-87.6385,41.9023,-87.6277,member,0:09:02,6,12
+BCE87D0EA81CC26D,electric_bike,41:09.4,46:14.7,Larrabee St & Webster Ave,13193,Stockton Dr & Wrightwood Ave,13276,41.9218,-87.6441,41.9313,-87.6387,member,0:05:05,2,12
+74EE55E9406C32C1,electric_bike,27:55.4,32:45.2,Larrabee St & Webster Ave,13193,Stockton Dr & Wrightwood Ave,13276,41.9218,-87.6441,41.9313,-87.6387,member,0:04:50,5,12
+ED99EDB88BBCE287,electric_bike,44:45.6,51:04.8,Larrabee St & Webster Ave,13193,Stockton Dr & Wrightwood Ave,13276,41.9218,-87.6441,41.9313,-87.6387,member,0:06:19,1,12
+355E9F7F71945EB5,electric_bike,47:32.1,55:07.4,Kingsbury St & Kinzie St,KA1503000043,Rush St & Cedar St,KA1504000133,41.8892,-87.6385,41.9023,-87.6277,member,0:07:35,2,12
+C4AB8A9ED75D0073,classic_bike,48:48.3,57:20.8,Wilton Ave & Belmont Ave,TA1307000134,Stockton Dr & Wrightwood Ave,13276,41.9402,-87.6529,41.9313,-87.6387,member,0:08:33,6,12
+4DA91B94B3ED6D29,classic_bike,03:34.6,09:38.9,Larrabee St & Webster Ave,13193,Stockton Dr & Wrightwood Ave,13276,41.9218,-87.6441,41.9313,-87.6387,member,0:06:04,3,12
+B3B814F14EB34817,classic_bike,25:17.8,35:56.4,Clark St & Elm St,TA1307000039,Rush St & Cedar St,KA1504000133,41.903,-87.6313,41.9023,-87.6277,casual,0:10:39,4,12
+4DA530CCE4D476AC,classic_bike,17:28.9,47:09.9,Wabash Ave & 9th St,TA1309000010,Wells St & Walton St,TA1306000011,41.8708,-87.6257,41.8999,-87.6344,casual,0:29:41,2,12
+329301D17B74C973,classic_bike,25:25.7,40:30.5,Clark St & Elm St,TA1307000039,Rush St & Cedar St,KA1504000133,41.903,-87.6313,41.9023,-87.6277,member,0:15:05,3,12
+651DEF1BE5DD0AFE,classic_bike,25:45.9,28:10.8,Damen Ave & Cortland St,13133,Damen Ave & Charleston St,13288,41.916,-87.6773,41.9201,-87.6779,member,0:02:25,2,12
+3FA2ADB3F57A3284,electric_bike,57:40.9,59:23.5,Clark St & Elm St,TA1307000039,Rush St & Cedar St,KA1504000133,41.903,-87.6313,41.9023,-87.6277,member,0:01:43,6,12
+F8946ACF3D14CC1A,electric_bike,20:19.9,22:13.6,Clark St & Elm St,TA1307000039,Rush St & Cedar St,KA1504000133,41.9027,-87.6316,41.9023,-87.6277,member,0:01:54,2,12
+4791A66EA6CC61D5,classic_bike,22:27.9,52:28.2,Indiana Ave & 26th St,TA1307000005,Kedzie Ave & 24th St,KA1504000086,41.8457,-87.6225,41.8482,-87.7054,casual,0:30:00,2,12
+F413B4DF9034105A,electric_bike,13:38.6,33:05.3,Indiana Ave & 26th St,TA1307000005,Kedzie Ave & 24th St,KA1504000086,41.8457,-87.6225,41.8482,-87.7054,casual,0:19:27,1,12
+A9847058354F610E,classic_bike,55:38.1,37:03.2,Indiana Ave & 26th St,TA1307000005,Kedzie Ave & 24th St,KA1504000086,41.8457,-87.6225,41.8482,-87.7054,casual,0:41:25,2,12
+84418F5220B963E3,electric_bike,03:32.0,08:20.5,McClurg Ct & Ohio St,TA1306000029,Rush St & Cedar St,KA1504000133,41.8926,-87.6173,41.9023,-87.6277,member,0:04:49,7,12
+8FDC9FAF3070CE69,classic_bike,13:50.5,21:05.1,McClurg Ct & Ohio St,TA1306000029,Rush St & Cedar St,KA1504000133,41.8926,-87.6173,41.9023,-87.6277,member,0:07:15,6,12
+53761887B67F3A48,electric_bike,00:47.4,12:17.2,Desplaines St & Jackson Blvd,15539,Wells St & Walton St,TA1306000011,41.8781,-87.6439,41.8999,-87.6344,member,0:11:30,5,12
+935842E1B7146270,electric_bike,27:19.5,33:52.0,Damen Ave & Thomas St (Augusta Blvd),TA1307000070,Damen Ave & Charleston St,13288,41.9013,-87.6774,41.9201,-87.6779,member,0:06:33,1,12
+794932440A5878CD,electric_bike,26:22.2,32:21.5,Mies van der Rohe Way & Chestnut St,15529,Wells St & Walton St,TA1306000011,41.8986,-87.6219,41.8999,-87.6344,member,0:05:59,5,12
+523B528423539829,electric_bike,23:36.6,29:29.1,Mies van der Rohe Way & Chestnut St,15529,Wells St & Walton St,TA1306000011,41.8986,-87.6219,41.8999,-87.6344,member,0:05:52,7,12
+77C54A96ACB1AC6F,classic_bike,57:19.4,06:35.9,Sheffield Ave & Fullerton Ave,TA1306000016,Stockton Dr & Wrightwood Ave,13276,41.9248,-87.6536,41.9313,-87.6387,member,0:09:17,3,12
+215A3829F9930570,classic_bike,48:31.9,05:47.3,Honore St & Division St,TA1305000034,Rush St & Cedar St,KA1504000133,41.9031,-87.6739,41.9023,-87.6277,member,0:17:15,2,12
+F7F831FB882373E7,electric_bike,39:39.7,43:41.6,Mies van der Rohe Way & Chestnut St,15529,Rush St & Cedar St,KA1504000133,41.8986,-87.6219,41.9023,-87.6277,member,0:04:02,6,12
+E7F51E609AC834C3,electric_bike,02:56.9,10:01.3,Mies van der Rohe Way & Chestnut St,15529,Wells St & Walton St,TA1306000011,41.8986,-87.6219,41.8999,-87.6344,member,0:07:04,1,12
+31E3F261B8632364,classic_bike,09:03.5,11:31.3,Lakeview Ave & Fullerton Pkwy,TA1309000019,Stockton Dr & Wrightwood Ave,13276,41.9259,-87.639,41.9313,-87.6387,member,0:02:28,2,12
+A63BA1A66814A458,classic_bike,48:16.9,50:19.5,Lakeview Ave & Fullerton Pkwy,TA1309000019,Stockton Dr & Wrightwood Ave,13276,41.9259,-87.639,41.9313,-87.6387,member,0:02:03,4,12
+FD5139A3AEA0353E,classic_bike,12:33.8,19:06.2,Lakeview Ave & Fullerton Pkwy,TA1309000019,Stockton Dr & Wrightwood Ave,13276,41.9259,-87.639,41.9313,-87.6387,member,0:06:32,4,12
+FC979801458A656D,electric_bike,25:39.3,38:56.8,Michigan Ave & Pearson St,13034,Stockton Dr & Wrightwood Ave,13276,41.8977,-87.6235,41.9313,-87.6387,member,0:13:18,1,12
+50E13BFBB717C132,classic_bike,25:44.1,28:49.2,Michigan Ave & Pearson St,13034,Rush St & Cedar St,KA1504000133,41.8977,-87.6235,41.9023,-87.6277,member,0:03:05,7,12
+AE657C869330B077,classic_bike,21:14.9,06:59.1,Clark St & Columbia Ave,RP-008,Damen Ave & Charleston St,13288,42.0045,-87.6724,41.9201,-87.6779,casual,0:45:44,4,12
+0EF8D4C3644ADB23,electric_bike,26:36.9,34:59.1,Daley Center Plaza,TA1306000010,Rush St & Cedar St,KA1504000133,41.8842,-87.6296,41.9023,-87.6277,member,0:08:22,6,12
+E75901A67D801504,electric_bike,48:52.6,50:53.9,Lakeview Ave & Fullerton Pkwy,TA1309000019,Stockton Dr & Wrightwood Ave,13276,41.9259,-87.639,41.9313,-87.6387,member,0:02:01,7,12
+038F751BD6D098F8,electric_bike,08:38.9,18:14.7,N Green St & W Lake St,20246,Rush St & Cedar St,KA1504000133,41.8856,-87.6485,41.9023,-87.6277,member,0:09:36,6,12
+D81CD7FE19CB8ED3,classic_bike,01:22.4,19:25.3,Lakeview Ave & Fullerton Pkwy,TA1309000019,Rush St & Cedar St,KA1504000133,41.9259,-87.639,41.9023,-87.6277,member,0:18:03,6,12
+315CD989964F95BF,classic_bike,20:56.4,24:09.6,Lakeview Ave & Fullerton Pkwy,TA1309000019,Stockton Dr & Wrightwood Ave,13276,41.9259,-87.639,41.9313,-87.6387,member,0:03:13,3,12
+6B70A6759277FB2B,electric_bike,52:03.4,02:15.7,Daley Center Plaza,TA1306000010,Rush St & Cedar St,KA1504000133,41.8842,-87.6296,41.9023,-87.6277,member,0:10:12,3,12
+C6761CF45E3DB375,electric_bike,29:55.4,39:43.9,Daley Center Plaza,TA1306000010,Wells St & Walton St,TA1306000011,41.8842,-87.6296,41.8999,-87.6344,member,0:09:49,5,12
+F942CD0AC09FC55D,classic_bike,30:37.6,41:44.2,Daley Center Plaza,TA1306000010,Wells St & Walton St,TA1306000011,41.8842,-87.6296,41.8999,-87.6344,member,0:11:07,3,12
+D4C8DB19474F341E,classic_bike,13:04.5,18:08.5,Central Ave & Altgeld St,23182,Long Ave & Diversey Ave,24326,41.9258,-87.7664,41.931,-87.7612,casual,0:05:04,1,12
+1DCF56F0AF6703EF,classic_bike,07:32.0,14:40.9,Clark St & North Ave,13128,Rush St & Cedar St,KA1504000133,41.912,-87.6319,41.9023,-87.6277,member,0:07:09,2,12
+0279CECC33853264,classic_bike,34:05.4,43:54.5,Sedgwick St & Webster Ave,13191,Wells St & Walton St,TA1306000011,41.9222,-87.6389,41.8999,-87.6344,member,0:09:49,1,12
+0F2991805057409D,classic_bike,47:27.6,11:21.1,Clark St & Grace St,TA1307000127,Wells St & Walton St,TA1306000011,41.9508,-87.6592,41.8999,-87.6344,member,0:23:54,3,12
+D5B107C71E349BB0,classic_bike,06:14.8,16:51.2,Clark St & North Ave,13128,Stockton Dr & Wrightwood Ave,13276,41.912,-87.6319,41.9313,-87.6387,member,0:10:36,2,12
+821880A67E34D0C5,electric_bike,54:30.4,58:35.9,Broadway & Barry Ave,13137,Stockton Dr & Wrightwood Ave,13276,41.9376,-87.6441,41.9313,-87.6387,member,0:04:06,7,12
+863EF0C10F0F1F7C,classic_bike,35:01.6,40:48.0,Michigan Ave & Oak St,13042,Wells St & Walton St,TA1306000011,41.901,-87.6238,41.8999,-87.6344,member,0:05:46,4,12
+13795DB63B4FA157,classic_bike,05:42.4,11:39.9,Broadway & Barry Ave,13137,Stockton Dr & Wrightwood Ave,13276,41.9376,-87.6441,41.9313,-87.6387,member,0:05:58,7,12
+8A54D88409516C54,electric_bike,07:14.6,17:32.3,Noble St & Milwaukee Ave,13290,Damen Ave & Charleston St,13288,41.9007,-87.6626,41.9201,-87.6779,member,0:10:18,1,12
+BD3E6292FEBB8174,classic_bike,58:30.2,03:19.7,Broadway & Barry Ave,13137,Stockton Dr & Wrightwood Ave,13276,41.9376,-87.6441,41.9313,-87.6387,member,0:04:50,7,12

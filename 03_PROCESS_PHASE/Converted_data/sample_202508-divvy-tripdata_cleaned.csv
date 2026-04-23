@@ -1,0 +1,100 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual,ride_length,day_of_the_week,month
+5E9EF20BEACD888F,electric_bike,39:36.8,43:28.6,California Ave & Milwaukee Ave,CHI00307,California Ave & Milwaukee Ave,CHI00307,41.9227,-87.6972,41.9227,-87.6972,casual,0:03:52,2,8
+24E65BF1FCE1D915,electric_bike,38:41.1,41:18.9,Milwaukee Ave & Fullerton Ave,CHI02075,California Ave & Milwaukee Ave,CHI00307,41.9247,-87.7006,41.9227,-87.6972,casual,0:02:38,1,8
+9D518769D1B46ABA,classic_bike,12:04.6,25:39.7,California Ave & Milwaukee Ave,CHI00307,California Ave & Milwaukee Ave,CHI00307,41.9227,-87.6972,41.9227,-87.6972,casual,0:13:35,1,8
+065AD01868850B87,electric_bike,08:49.2,15:10.8,California Ave & Milwaukee Ave,CHI00307,Milwaukee Ave & Fullerton Ave,CHI02075,41.9227,-87.6972,41.9247,-87.7006,member,0:06:22,7,8
+B3D3B885A9A2D16A,electric_bike,44:43.9,45:31.9,Milwaukee Ave & Fullerton Ave,CHI02075,Milwaukee Ave & Fullerton Ave,CHI02075,41.9247,-87.7006,41.9247,-87.7006,casual,0:00:48,1,8
+34D3C84D7583A0CB,electric_bike,21:56.5,24:38.3,Public Rack - Springfield Ave & Lawrence Ave,CHI01591,Public Rack - Springfield Ave & Lawrence Ave,CHI01591,41.9684,-87.7257,41.9684,-87.7257,casual,0:02:42,1,8
+28B7CF875D25B391,electric_bike,06:20.3,11:30.8,Peoria St & Kinzie St,CHI02098,Peoria St & Kinzie St,CHI02098,41.889,-87.6497,41.889,-87.6497,casual,0:05:10,2,8
+F3601AA14D354E30,electric_bike,07:15.3,03:18.7,Rockwell St & 57th St,CHI01877,Rockwell St & 57th St,CHI01877,41.7903,-87.6889,41.7903,-87.6889,casual,0:56:03,4,8
+C1F3C8BE8C516167,electric_bike,33:48.3,51:15.9,Avenue O & 134th St,CHI00843,Avenue O & 134th St,CHI00843,41.6519,-87.5396,41.6519,-87.5396,casual,0:17:28,7,8
+B246998DBCB45457,classic_bike,13:15.7,03:31.4,Vernon Ave & 107th St,CHI00772,Vernon Ave & 107th St,CHI00772,41.7001,-87.6123,41.7001,-87.6123,casual,0:50:16,7,8
+FFF4338337C512E6,electric_bike,00:32.4,00:51.8,Public Rack - Harlem & Summerdale,CHI01645,Public Rack - Harlem & Summerdale,CHI01645,41.9778,-87.8068,41.9778,-87.8068,casual,0:00:19,4,8
+49873344656ACFC6,classic_bike,34:01.5,45:05.5,Milwaukee Ave & Fullerton Ave,CHI02075,California Ave & Division St,CHI00340,41.9247,-87.7006,41.903,-87.6975,casual,0:11:04,5,8
+61B3E6A2368D2FBF,classic_bike,27:29.3,50:39.5,Wood St & Chicago Ave,CHI01183,Wood St & Chicago Ave,CHI01183,41.8956,-87.6721,41.8956,-87.6721,casual,0:23:10,5,8
+DC66EBE88657968E,classic_bike,03:54.2,03:31.3,California Ave & Milwaukee Ave,CHI00307,California Ave & Milwaukee Ave,CHI00307,41.9227,-87.6972,41.9227,-87.6972,casual,0:59:37,6,8
+D7F363D0425A418A,electric_bike,15:36.7,21:51.4,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,0:06:15,4,8
+DED0A344C0F106AF,classic_bike,30:47.2,49:44.9,Cottage Grove Ave & 51st St,CHI00502,Cottage Grove Ave & 51st St,CHI00502,41.803,-87.6066,41.803,-87.6066,casual,1:18:58,4,8
+750B052C9ACBA835,classic_bike,47:08.2,54:17.0,DuSable Museum,CHI00586,DuSable Museum,CHI00586,41.7916,-87.6079,41.7916,-87.6079,casual,0:07:09,4,8
+9647B1149634EFCD,classic_bike,21:14.3,16:28.9,Milwaukee Ave & Fullerton Ave,CHI02075,Milwaukee Ave & Fullerton Ave,CHI02075,41.9247,-87.7006,41.9247,-87.7006,casual,0:55:15,4,8
+A291286E6E7B48C1,classic_bike,22:06.6,38:25.9,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,0:16:19,4,8
+59BD2E8C064EAEB3,classic_bike,02:15.5,03:56.7,California Ave & Milwaukee Ave,CHI00307,California Ave & Milwaukee Ave,CHI00307,41.9227,-87.6972,41.9227,-87.6972,member,1:01:41,5,8
+22CEBBEA47D1F678,classic_bike,42:06.5,47:17.1,Burnham Greenway & 105th St,CHI00863,Burnham Greenway & 105th St,CHI00863,41.7046,-87.5282,41.7046,-87.5282,casual,0:05:11,7,8
+F20E10DA562E8EE8,classic_bike,59:52.4,09:19.3,California Ave & Division St,CHI00340,California Ave & Milwaukee Ave,CHI00307,41.903,-87.6975,41.9227,-87.6972,casual,0:09:27,3,8
+A74E28DBA7F02F0D,electric_bike,21:17.5,41:41.5,Pulaski Rd & 84th St,CHI01753,Pulaski Rd & 84th St,CHI01753,41.7404,-87.7219,41.7404,-87.7219,casual,0:20:24,2,8
+4E7E2AD39A08DBCA,classic_bike,55:41.5,48:25.0,Avenue O & 134th St,CHI00843,Avenue O & 134th St,CHI00843,41.6519,-87.5396,41.6519,-87.5396,casual,0:52:44,7,8
+B4E01C5329123088,classic_bike,30:26.3,59:39.2,Peoria St & Kinzie St,CHI02098,Milwaukee Ave & Fullerton Ave,CHI02075,41.889,-87.6497,41.9247,-87.7006,casual,0:29:13,1,8
+A1B6844C72433314,classic_bike,27:27.3,50:05.1,California Ave & Milwaukee Ave,CHI00307,Milwaukee Ave & Fullerton Ave,CHI02075,41.9227,-87.6972,41.9247,-87.7006,casual,0:22:38,5,8
+3D2409D0C81E28DA,classic_bike,36:53.2,31:34.3,Chicago State University,CHI00767,Chicago State University,CHI00767,41.719,-87.6083,41.719,-87.6083,casual,0:54:41,3,8
+F1A9FC8F1E475F2A,electric_bike,21:41.5,22:44.6,Public Rack - Milwaukee Ave & Higgins Ave,CHI01581,Public Rack - Milwaukee Ave & Higgins Ave,CHI01581,41.9686,-87.7612,41.9686,-87.7612,casual,0:01:03,1,8
+EAC75164BA303C3E,classic_bike,56:45.5,17:16.6,Vernon Ave & 107th St,CHI00772,Vernon Ave & 107th St,CHI00772,41.7001,-87.6123,41.7001,-87.6123,casual,0:20:31,7,8
+A3C92CCF71EB33C7,electric_bike,06:54.8,08:25.8,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,casual,0:01:31,6,8
+E8E8D18BB2688109,electric_bike,59:17.8,59:30.3,Western Ave & Roscoe St,CHI00614,Western Ave & Roscoe St,CHI00614,41.943,-87.6873,41.943,-87.6873,casual,0:00:13,6,8
+5241C71E445060BB,classic_bike,01:32.5,12:32.3,California Ave & Division St,CHI00340,Milwaukee Ave & Fullerton Ave,CHI02075,41.903,-87.6975,41.9247,-87.7006,casual,0:11:00,6,8
+B426D87983A77AD4,electric_bike,12:07.6,15:12.1,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,0:03:04,1,8
+9583CE245F6BA01F,electric_bike,36:26.5,35:28.9,Avenue O & 134th St,CHI00843,Avenue O & 134th St,CHI00843,41.6519,-87.5396,41.6519,-87.5396,casual,0:59:02,1,8
+3D753C0FEB3F4267,electric_bike,39:46.7,46:53.7,Public Rack - Michigan Ave & 119th St,CHI01393,Public Rack - Michigan Ave & 119th St,CHI01393,41.6779,-87.6208,41.6779,-87.6208,casual,0:07:07,1,8
+57E7AB63AEFD3D23,classic_bike,17:14.2,31:05.5,California Ave & Division St,CHI00340,Wood St & Chicago Ave,CHI01183,41.903,-87.6975,41.8956,-87.6721,casual,0:13:51,7,8
+E56EB7110D7FC13B,classic_bike,17:38.1,27:39.0,Kedzie Ave & Lake St,CHI00528,Kedzie Ave & Lake St,CHI00528,41.8846,-87.7063,41.8846,-87.7063,casual,1:10:01,7,8
+55950F9A88623EEB,classic_bike,11:03.9,01:05.6,Cottage Grove Ave & 51st St,CHI00502,Cottage Grove Ave & 51st St,CHI00502,41.803,-87.6066,41.803,-87.6066,casual,4:50:02,7,8
+DD409195B6178FFC,electric_bike,39:26.0,40:30.3,Wood St & Chicago Ave,CHI01183,Wood St & Chicago Ave,CHI01183,41.8956,-87.6721,41.8956,-87.6721,casual,0:01:04,3,8
+D5EF1BB43BF2223D,electric_bike,47:10.1,10:06.0,Cottage Grove Ave & 51st St,CHI00502,Cottage Grove Ave & 51st St,CHI00502,41.803,-87.6066,41.803,-87.6066,casual,1:22:56,3,8
+65EC339A317E4080,electric_bike,05:02.5,25:30.7,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,0:20:28,6,8
+5CBCC46E60CF6427,electric_bike,24:05.4,27:25.4,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,3:03:20,1,8
+6744CB2F70372CF0,classic_bike,43:54.1,10:14.0,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,0:26:20,3,8
+1BCE32F548CC917F,electric_bike,58:58.2,02:04.0,Rockwell St & 57th St,CHI01877,Rockwell St & 57th St,CHI01877,41.7903,-87.6889,41.7903,-87.6889,casual,0:03:06,7,8
+C9EEEA75A661123D,classic_bike,51:37.1,59:18.7,California Ave & Milwaukee Ave,CHI00307,California Ave & Milwaukee Ave,CHI00307,41.9227,-87.6972,41.9227,-87.6972,casual,0:07:42,7,8
+24630EDB7737615E,electric_bike,02:20.2,02:59.0,Public Rack - Harlem & Summerdale,CHI01645,Public Rack - Harlem & Summerdale,CHI01645,41.9778,-87.8068,41.9778,-87.8068,casual,0:00:39,5,8
+0F52580A3B9672A8,electric_bike,59:07.3,11:55.3,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,0:12:48,4,8
+7ABED011211ACE69,classic_bike,30:22.9,25:31.0,Wood St & Chicago Ave,CHI01183,Wood St & Chicago Ave,CHI01183,41.8956,-87.6721,41.8956,-87.6721,casual,0:55:08,7,8
+AFD891E5368FD3F8,classic_bike,06:39.3,00:56.6,California Ave & Milwaukee Ave,CHI00307,California Ave & Milwaukee Ave,CHI00307,41.9227,-87.6972,41.9227,-87.6972,casual,5:54:17,6,8
+26D575C130990EB7,electric_bike,23:30.6,27:42.9,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,3:04:12,7,8
+0474D78FFAB92F60,electric_bike,25:40.5,26:44.5,Western Ave & Roscoe St,CHI00614,Western Ave & Roscoe St,CHI00614,41.943,-87.6873,41.943,-87.6873,casual,0:01:04,7,8
+AB8EC612835858F5,classic_bike,44:01.4,46:08.7,Milwaukee Ave & Fullerton Ave,CHI02075,California Ave & Milwaukee Ave,CHI00307,41.9247,-87.7006,41.9227,-87.6972,casual,0:02:07,7,8
+E78E9AD73C38E652,classic_bike,58:08.7,05:44.9,California Ave & Milwaukee Ave,CHI00307,California Ave & Milwaukee Ave,CHI00307,41.9227,-87.6972,41.9227,-87.6972,casual,0:07:36,3,8
+B56339EFFF4CFA10,electric_bike,11:37.1,18:58.4,Peoria St & Kinzie St,CHI02098,Wood St & Chicago Ave,CHI01183,41.889,-87.6497,41.8956,-87.6721,member,0:07:21,2,8
+4132DD79A6EA692D,electric_bike,37:28.5,37:56.5,California Ave & Milwaukee Ave,CHI00307,California Ave & Milwaukee Ave,CHI00307,41.9227,-87.6972,41.9227,-87.6972,member,0:00:28,2,8
+6547ED639AA7F020,classic_bike,38:35.2,48:05.7,Milwaukee Ave & Fullerton Ave,CHI02075,California Ave & Division St,CHI00340,41.9247,-87.7006,41.903,-87.6975,member,0:09:30,1,8
+23607CE28F62D637,classic_bike,53:30.8,31:50.3,Campbell Ave & Montrose Ave,CHI00214,Campbell Ave & Montrose Ave,CHI00214,41.9615,-87.6912,41.9615,-87.6912,casual,0:38:19,7,8
+F8D1B61CD8451D22,electric_bike,51:18.2,58:26.6,California Ave & Milwaukee Ave,CHI00307,California Ave & Division St,CHI00340,41.9227,-87.6972,41.903,-87.6975,casual,0:07:08,2,8
+910510B085D20D15,electric_bike,46:39.4,52:18.6,Rockwell St & 57th St,CHI01877,Rockwell St & 57th St,CHI01877,41.7903,-87.6889,41.7903,-87.6889,casual,0:05:39,4,8
+A833094A42F4F275,classic_bike,08:48.7,25:22.6,California Ave & Division St,CHI00340,Milwaukee Ave & Fullerton Ave,CHI02075,41.903,-87.6975,41.9247,-87.7006,casual,0:16:34,3,8
+AACCA0E1E1067495,electric_bike,22:24.3,50:26.8,DuSable Museum,CHI00586,DuSable Museum,CHI00586,41.7916,-87.6079,41.7916,-87.6079,casual,0:28:03,2,8
+6F743B1F21F59682,electric_bike,54:09.5,06:55.4,Rockwell St & 57th St,CHI01877,Rockwell St & 57th St,CHI01877,41.7903,-87.6889,41.7903,-87.6889,casual,0:12:46,2,8
+196F3663D569CEE8,classic_bike,48:26.6,06:44.3,Milwaukee Ave & Fullerton Ave,CHI02075,Milwaukee Ave & Fullerton Ave,CHI02075,41.9247,-87.7006,41.9247,-87.7006,casual,12:18:18,2,8
+D6CC7E74A53F9E02,electric_bike,54:51.0,03:20.0,Rockwell St & 57th St,CHI01877,Rockwell St & 57th St,CHI01877,41.7903,-87.6889,41.7903,-87.6889,casual,1:08:29,6,8
+5DD5C567153CD0B7,electric_bike,41:41.6,43:02.6,California Ave & Milwaukee Ave,CHI00307,Milwaukee Ave & Fullerton Ave,CHI02075,41.9227,-87.6972,41.9247,-87.7006,casual,0:01:21,6,8
+DB655AAEBC916BA8,electric_bike,45:25.8,47:04.1,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,member,0:01:38,7,8
+6C7F7607F6739E7C,classic_bike,16:00.0,20:52.5,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,member,0:04:53,6,8
+1C8C929D5EE26275,electric_bike,07:18.6,13:20.9,California Ave & Division St,CHI00340,California Ave & Milwaukee Ave,CHI00307,41.903,-87.6975,41.9227,-87.6972,member,0:06:02,1,8
+F040AA7E4678CF41,classic_bike,13:32.3,54:04.1,Cottage Grove Ave & 51st St,CHI00502,Cottage Grove Ave & 51st St,CHI00502,41.803,-87.6066,41.803,-87.6066,casual,1:40:32,7,8
+FC8BA28B9AA30029,classic_bike,57:22.0,16:41.6,DuSable Museum,CHI00586,DuSable Museum,CHI00586,41.7916,-87.6079,41.7916,-87.6079,member,0:19:20,4,8
+94E670CFC1427D55,classic_bike,41:18.3,45:45.7,California Ave & Milwaukee Ave,CHI00307,California Ave & Milwaukee Ave,CHI00307,41.9227,-87.6972,41.9227,-87.6972,member,1:04:27,6,8
+9E4EAC784D1A6B5D,electric_bike,03:52.9,04:29.7,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,member,0:00:37,6,8
+08A6D1D63E42AF98,electric_bike,03:53.4,37:29.8,Cottage Grove Ave & 51st St,CHI00502,Cottage Grove Ave & 51st St,CHI00502,41.803,-87.6066,41.803,-87.6066,member,0:33:36,1,8
+7ADC5CC31FC3B8B4,electric_bike,14:40.0,45:24.9,Cottage Grove Ave & 51st St,CHI00502,Cottage Grove Ave & 51st St,CHI00502,41.803,-87.6066,41.803,-87.6066,member,0:30:45,1,8
+16CD22C86F0EA562,electric_bike,18:47.6,05:10.3,DuSable Museum,CHI00586,Cottage Grove Ave & 51st St,CHI00502,41.7916,-87.6079,41.803,-87.6066,member,0:46:23,2,8
+D8371588254BC4BB,electric_bike,25:31.3,04:51.9,DuSable Museum,CHI00586,DuSable Museum,CHI00586,41.7916,-87.6079,41.7916,-87.6079,member,0:39:21,6,8
+77B7F03501688F42,electric_bike,22:56.0,58:55.7,DuSable Museum,CHI00586,Cottage Grove Ave & 51st St,CHI00502,41.7916,-87.6079,41.803,-87.6066,member,0:36:00,2,8
+07FDC2E8977C8477,classic_bike,17:32.4,32:13.1,California Ave & Division St,CHI00340,Milwaukee Ave & Fullerton Ave,CHI02075,41.903,-87.6975,41.9247,-87.7006,member,0:14:41,5,8
+CBE71516BE25B212,classic_bike,45:44.5,09:12.2,Milwaukee Ave & Fullerton Ave,CHI02075,Milwaukee Ave & Fullerton Ave,CHI02075,41.9247,-87.7006,41.9247,-87.7006,member,0:23:28,5,8
+2EFAF3109CCF9603,electric_bike,01:46.0,02:32.1,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,member,0:00:46,1,8
+AD13D57F660CA3B8,classic_bike,57:39.7,59:50.0,California Ave & Milwaukee Ave,CHI00307,Milwaukee Ave & Fullerton Ave,CHI02075,41.9227,-87.6972,41.9247,-87.7006,member,0:02:10,1,8
+005F7B173E5481F0,electric_bike,47:20.9,47:37.1,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,member,0:00:16,1,8
+DC4AA5200CD689FB,electric_bike,47:57.8,48:09.6,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,member,0:00:12,1,8
+78B467370163AF81,classic_bike,19:44.7,52:37.4,Campbell Ave & Montrose Ave,CHI00214,Campbell Ave & Montrose Ave,CHI00214,41.9615,-87.6912,41.9615,-87.6912,casual,2:32:53,7,8
+34640C9D39AB7B3A,electric_bike,56:51.6,49:35.7,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,member,0:52:44,4,8
+3FB1C6D51EB12E17,classic_bike,53:11.3,35:44.7,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,member,0:42:33,1,8
+FE37636B068D29BB,electric_bike,43:32.4,51:29.4,California Ave & Division St,CHI00340,California Ave & Milwaukee Ave,CHI00307,41.903,-87.6975,41.9227,-87.6972,member,0:07:57,1,8
+603456BEC1C4E8D3,electric_bike,48:57.6,44:01.8,Cottage Grove Ave & 51st St,CHI00502,Cottage Grove Ave & 51st St,CHI00502,41.803,-87.6066,41.803,-87.6066,member,0:55:04,7,8
+3BBE2D8C642713AD,classic_bike,46:03.6,50:10.4,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,member,0:04:07,7,8
+0469C023A7440435,electric_bike,22:26.8,32:33.3,Cottage Grove Ave & 51st St,CHI00502,Cottage Grove Ave & 51st St,CHI00502,41.803,-87.6066,41.803,-87.6066,member,0:10:06,4,8
+7E57910032B6F6B7,classic_bike,13:13.0,18:01.8,California Ave & Milwaukee Ave,CHI00307,Milwaukee Ave & Fullerton Ave,CHI02075,41.9227,-87.6972,41.9247,-87.7006,member,0:04:49,6,8
+B21B7DF8CA6B8623,electric_bike,42:15.9,03:19.3,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,0:21:03,6,8
+B1089F5BDB20E30E,electric_bike,41:29.9,03:43.9,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,0:22:14,6,8
+04F378833CF52E20,electric_bike,13:21.4,50:24.5,California Ave & Division St,CHI00340,California Ave & Division St,CHI00340,41.903,-87.6975,41.903,-87.6975,casual,2:37:03,2,8
+E81EF1F6DF0E786C,classic_bike,13:57.8,14:58.1,Morgan Ave & 14th Pl,CHI00261,Morgan Ave & 14th Pl,CHI00261,41.8624,-87.6511,41.8624,-87.6511,member,0:01:00,3,8
+3166CAADDC47C6BC,electric_bike,37:35.3,46:09.0,Milwaukee Ave & Fullerton Ave,CHI02075,California Ave & Division St,CHI00340,41.9247,-87.7006,41.903,-87.6975,member,0:08:34,3,8
+5F32618870C9ECFD,electric_bike,04:16.6,04:45.3,Peoria St & Kinzie St,CHI02098,Peoria St & Kinzie St,CHI02098,41.889,-87.6497,41.889,-87.6497,member,0:00:29,7,8
+7E58B3905A16FA1B,classic_bike,14:54.3,30:01.6,Peoria St & Kinzie St,CHI02098,Wood St & Chicago Ave,CHI01183,41.889,-87.6497,41.8956,-87.6721,member,0:15:07,7,8
+2484BCD47F80E3EF,classic_bike,39:51.7,55:13.5,California Ave & Division St,CHI00340,Milwaukee Ave & Fullerton Ave,CHI02075,41.903,-87.6975,41.9247,-87.7006,casual,0:15:22,7,8

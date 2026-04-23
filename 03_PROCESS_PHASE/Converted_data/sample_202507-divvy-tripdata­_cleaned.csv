@@ -1,0 +1,100 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual,ride_length,day_of_the_week,month
+455D43BD91D73437,classic_bike,15:08.5,25:47.1,Lincoln Ave & Diversey Pkwy,CHI00285,Lincoln Ave & Addison St,CHI00478,41.9322,-87.6586,41.9462,-87.6733,member,0:10:39,3,7
+9D4A6B723ECD98CA,classic_bike,57:38.9,06:35.8,Cottage Grove Ave & Oakwood Blvd,CHI00400,Cottage Grove Ave & 47th St,CHI00488,41.823,-87.6071,41.8099,-87.6068,member,0:08:57,5,7
+C57044CF523302ED,classic_bike,49:28.1,15:29.0,Theater on the Lake,CHI00420,Winthrop Ave & Lawrence Ave,CHI00391,41.9263,-87.6308,41.9688,-87.6577,member,0:26:01,5,7
+AFD35552E6685B6E,electric_bike,36:21.1,46:54.7,Pine Grove Ave & Waveland Ave,CHI00354,Winthrop Ave & Lawrence Ave,CHI00391,41.9495,-87.6465,41.9688,-87.6577,member,0:10:34,4,7
+C0582EBAA6CED519,classic_bike,43:45.2,57:06.7,Theater on the Lake,CHI00420,Sheffield Ave & Wellington Ave,CHI00274,41.9263,-87.6308,41.9363,-87.6527,member,0:13:21,2,7
+0CC70863C557D23F,classic_bike,21:48.0,24:59.5,State St & Pearson St,CHI00271,Clark St & Elm St,CHI00281,41.8974,-87.6287,41.903,-87.6313,member,0:03:12,5,7
+7919B8A3DC2E05B5,electric_bike,28:46.8,40:16.4,LaSalle St & Adams St,CHI00451,Clark St & Elm St,CHI00281,41.8793,-87.632,41.903,-87.6313,member,0:11:30,1,7
+A19B1B6B9C62B115,classic_bike,43:30.7,59:57.4,Millennium Park,CHI01742,Wabash Ave & 9th St,CHI00448,41.881,-87.6241,41.8708,-87.6257,casual,0:16:27,4,7
+45CBB32AC2C79791,classic_bike,14:04.1,24:59.7,Theater on the Lake,CHI00420,Sheffield Ave & Wellington Ave,CHI00274,41.9263,-87.6308,41.9363,-87.6527,casual,0:10:56,4,7
+EB5F7E1F95940534,classic_bike,03:15.7,23:13.4,Theater on the Lake,CHI00420,Racine Ave & Belmont Ave,CHI00411,41.9263,-87.6308,41.9397,-87.6589,casual,0:19:58,7,7
+AFC2A8F99FCEAE60,classic_bike,43:59.5,11:09.0,Western Ave & Division St,CHI00375,Damen Ave & Cullerton St,CHI00267,41.9029,-87.6873,41.855,-87.6757,casual,0:27:09,4,7
+E6422A2EBAF87EB4,classic_bike,28:25.0,09:18.1,Theater on the Lake,CHI00420,Sheridan Rd & Loyola Ave,CHI00752,41.9263,-87.6308,42.001,-87.6612,casual,0:40:53,7,7
+20E2FDF00DA62E32,electric_bike,36:07.9,52:48.0,Broadway & Sheridan Rd,CHI00476,Damen Ave & Cortland St,CHI00388,41.9528,-87.65,41.916,-87.6773,member,0:16:40,4,7
+E971459ADE49DFA0,classic_bike,50:46.0,53:40.7,Lincoln Ave & Diversey Pkwy,CHI00285,Racine Ave & Belmont Ave,CHI00411,41.9322,-87.6586,41.9397,-87.6589,member,0:02:55,4,7
+CCA4975E4890786E,classic_bike,04:21.4,07:09.1,Lincoln Ave & Diversey Pkwy,CHI00285,Racine Ave & Belmont Ave,CHI00411,41.9322,-87.6586,41.9397,-87.6589,member,0:02:48,7,7
+82BCE4C6222AED59,classic_bike,02:51.3,13:59.3,Pine Grove Ave & Waveland Ave,CHI00354,Racine Ave & Belmont Ave,CHI00411,41.9495,-87.6465,41.9397,-87.6589,casual,0:11:08,7,7
+2588EA205262197B,classic_bike,04:08.5,09:12.4,Theater on the Lake,CHI00420,Clark St & Armitage Ave,CHI00474,41.9263,-87.6308,41.9183,-87.6363,member,0:05:04,1,7
+74DDFCD0E99D9B58,classic_bike,43:34.2,49:29.6,Pine Grove Ave & Waveland Ave,CHI00354,Sheridan Rd & Montrose Ave,CHI00290,41.9495,-87.6465,41.9617,-87.6546,member,0:05:55,1,7
+DE312EA348E8B051,classic_bike,07:58.2,15:30.7,Pine Grove Ave & Waveland Ave,CHI00354,Sheridan Rd & Montrose Ave,CHI00290,41.9495,-87.6465,41.9617,-87.6546,member,0:07:33,5,7
+FD6DA3A145CD34FA,classic_bike,10:14.8,16:40.1,Drexel Ave & 60th St,CHI01902,Harper Ave & 59th St,CHI00584,41.7859,-87.6046,41.7879,-87.5883,member,0:06:25,2,7
+4D5D072D7ADE15BE,classic_bike,13:32.6,50:58.1,Pine Grove Ave & Waveland Ave,CHI00354,McClurg Ct & Ohio St,CHI00330,41.9495,-87.6465,41.8926,-87.6173,member,0:37:26,3,7
+4CC111A1B115E0D1,classic_bike,24:01.0,33:33.9,Broadway & Sheridan Rd,CHI00476,Ashland Ave & Belle Plaine Ave,CHI00380,41.9528,-87.65,41.9561,-87.6688,member,0:09:33,6,7
+9857288E4060E9E6,classic_bike,56:52.7,44:20.6,Drexel Ave & 60th St,CHI01902,Stetson Ave & South Water St,CHI00432,41.7859,-87.6046,41.8868,-87.6223,casual,0:47:28,7,7
+12525C7D7B221FA6,classic_bike,32:33.3,46:11.2,Millennium Park,CHI01742,McClurg Ct & Ohio St,CHI00330,41.881,-87.6241,41.8926,-87.6173,casual,0:13:38,3,7
+8319423A525CA894,classic_bike,04:56.5,37:21.6,Millennium Park,CHI01742,Stetson Ave & South Water St,CHI00432,41.881,-87.6241,41.8868,-87.6223,casual,0:32:25,4,7
+6D87A9AAD4CF900B,electric_bike,06:18.2,22:13.0,Millennium Park,CHI01742,McClurg Ct & Ohio St,CHI00330,41.881,-87.6241,41.8926,-87.6173,casual,0:15:55,6,7
+F5DD1F929D88016E,electric_bike,03:31.8,06:06.0,Millennium Park,CHI01742,Adler Planetarium,CHI00360,41.881,-87.6241,41.8661,-87.6073,casual,1:02:34,7,7
+594FE2CAE07C2560,classic_bike,45:10.9,18:32.8,Pine Grove Ave & Waveland Ave,CHI00354,McClurg Ct & Ohio St,CHI00330,41.9495,-87.6465,41.8926,-87.6173,casual,0:33:22,1,7
+3F56BE5D5EC36E1A,electric_bike,16:57.3,28:39.4,Millennium Park,CHI01742,McClurg Ct & Ohio St,CHI00330,41.881,-87.6241,41.8926,-87.6173,casual,0:11:42,7,7
+87B7B3F9BC092188,classic_bike,15:16.9,57:32.0,Theater on the Lake,CHI00420,Adler Planetarium,CHI00360,41.9263,-87.6308,41.8661,-87.6073,casual,0:42:15,7,7
+5CE752CAE6AE9D19,electric_bike,41:53.1,31:10.4,Millennium Park,CHI01742,Stetson Ave & South Water St,CHI00432,41.881,-87.6241,41.8868,-87.6223,casual,0:49:17,7,7
+DFE8D22E3EC271B3,electric_bike,57:45.6,08:02.9,Lincoln Ave & Diversey Pkwy,CHI00285,Ashland Ave & Belle Plaine Ave,CHI00380,41.9322,-87.6586,41.9561,-87.6688,casual,0:10:17,3,7
+FBC681D6DE8897DB,classic_bike,10:58.7,28:28.1,Millennium Park,CHI01742,Franklin St & Monroe St,CHI00449,41.881,-87.6241,41.8803,-87.6352,casual,0:17:29,1,7
+F80768381ACA8DFD,classic_bike,40:39.6,08:34.2,State St & Pearson St,CHI00271,Michigan Ave & Jackson Blvd,CHI00452,41.8974,-87.6287,41.8786,-87.6241,casual,0:27:55,1,7
+D7F46793C73D7639,classic_bike,43:37.1,54:22.4,Millennium Park,CHI01742,Michigan Ave & Jackson Blvd,CHI00452,41.881,-87.6241,41.8786,-87.6241,casual,1:10:45,1,7
+6CC5F0EDE1748A96,classic_bike,45:54.4,24:09.1,Theater on the Lake,CHI00420,Michigan Ave & Jackson Blvd,CHI00452,41.9263,-87.6308,41.8786,-87.6241,casual,0:38:15,1,7
+1197E844584CCB12,classic_bike,52:49.7,06:24.4,Theater on the Lake,CHI00420,Larrabee St & Webster Ave,CHI00454,41.9263,-87.6308,41.9218,-87.6441,casual,0:13:35,6,7
+F9122B5FF6956555,electric_bike,40:17.9,01:47.6,State St & Pearson St,CHI00271,Wilton Ave & Belmont Ave,CHI00353,41.8974,-87.6288,41.9402,-87.6529,member,0:21:30,5,7
+8E5941EA15E261CE,electric_bike,34:50.7,40:12.3,Lincoln Ave & Diversey Pkwy,CHI00285,Larrabee St & Webster Ave,CHI00454,41.9322,-87.6586,41.9218,-87.6441,casual,0:05:22,3,7
+3B5E68EE25F3C871,classic_bike,04:06.4,17:43.4,Theater on the Lake,CHI00420,Wilton Ave & Belmont Ave,CHI00353,41.9263,-87.6308,41.9402,-87.6529,casual,0:13:37,4,7
+A1961B81F177BF25,electric_bike,31:36.6,44:52.0,Pine Grove Ave & Waveland Ave,CHI00354,Campbell Ave & Montrose Ave,CHI00214,41.9495,-87.6465,41.9615,-87.6912,member,0:13:15,3,7
+D96BFBEA61CCBAEA,electric_bike,18:01.1,31:29.8,Theater on the Lake,CHI00420,Racine Ave & Fullerton Ave,CHI00273,41.9263,-87.6308,41.9256,-87.6584,casual,0:13:29,1,7
+A0963F5220C4B516,electric_bike,11:36.4,22:38.8,Millennium Park,CHI01742,Michigan Ave & 8th St,CHI01163,41.881,-87.6241,41.8728,-87.624,casual,0:11:02,1,7
+7BCE8605BFC6C011,classic_bike,46:33.1,33:31.8,State St & Pearson St,CHI00271,Benson Ave & Church St,CHI00737,41.8974,-87.6287,42.0482,-87.6835,casual,1:46:59,6,7
+9B96B583E47D4702,electric_bike,17:19.5,24:28.5,Pine Grove Ave & Waveland Ave,CHI00354,Broadway & Wilson Ave,CHI00272,41.9495,-87.6465,41.9652,-87.6581,casual,0:07:09,6,7
+AD708CB575E58F33,classic_bike,45:12.0,50:36.4,LaSalle St & Adams St,CHI00451,Michigan Ave & Washington St,CHI01677,41.8793,-87.632,41.884,-87.6247,member,0:05:24,2,7
+E752EAAF7184C431,electric_bike,09:16.4,20:52.8,Damen Ave & Division St,CHI00318,Larrabee St & Armitage Ave,CHI00441,41.9033,-87.6784,41.9181,-87.6437,member,0:11:36,7,7
+2E546FC2297300BF,classic_bike,01:03.7,28:26.0,Theater on the Lake,CHI00420,Lakefront Trail & Bryn Mawr Ave,CHI00298,41.9263,-87.6308,41.984,-87.6523,member,0:27:22,4,7
+58CCBBBA931B28D0,classic_bike,19:27.8,28:01.2,Damen Ave & Division St,CHI00318,Leavitt St & Armitage Ave,CHI00467,41.9033,-87.6784,41.9178,-87.6824,member,0:08:33,1,7
+57C0A94D1927DC52,classic_bike,59:30.0,23:21.4,Pine Grove Ave & Waveland Ave,CHI00354,Lakefront Trail & Bryn Mawr Ave,CHI00298,41.9495,-87.6465,41.984,-87.6523,member,0:23:51,3,7
+73A758FE7D08A700,classic_bike,41:59.9,49:33.9,Columbus Dr & Randolph St,CHI00345,Franklin St & Adams St ,CHI00453,41.8847,-87.6195,41.8794,-87.6355,member,0:07:34,7,7
+E6BAD8EAFA4A8DAC,classic_bike,51:30.5,28:11.6,Columbus Dr & Randolph St,CHI00345,Streeter Dr & Grand Ave,CHI01747,41.8847,-87.6195,41.8923,-87.612,casual,0:36:41,7,7
+70E62E3CB2D98A99,electric_bike,13:32.3,54:33.2,Ellis Ave & 55th St,CHI00583,Stony Island Ave & 63rd St,CHI02031,41.7943,-87.6014,41.7805,-87.5869,casual,0:41:01,4,7
+8C6130ED37DC3C7F,electric_bike,31:22.0,49:05.7,Francisco Ave & Chicago Ave,CHI02080,Clinton St & Madison St,CHI00233,41.8957,-87.6987,41.8828,-87.6412,member,0:17:44,3,7
+46923AFB5DAD66CC,electric_bike,04:35.2,09:34.6,Ellis Ave & 55th St,CHI00583,Shore Dr & 55th St,CHI00394,41.7943,-87.6014,41.7952,-87.5807,member,0:04:59,2,7
+10E5AAEB8B84F926,electric_bike,46:19.9,53:55.3,Pine Grove Ave & Waveland Ave,CHI00354,Lincoln Ave & Roscoe St*,CHI01837,41.9495,-87.6465,41.9434,-87.6707,member,0:07:35,7,7
+F5738776FC83E31C,classic_bike,05:39.2,32:59.8,Cottage Grove Ave & Oakwood Blvd,CHI00400,Lake Park Ave & 47th St,CHI00366,41.823,-87.6071,41.8094,-87.5919,casual,1:27:21,3,7
+5CBCBB6D7F6F3092,electric_bike,27:13.1,31:16.5,Pine Grove Ave & Waveland Ave,CHI00354,Sheffield/Newport Corral,CHI02066,41.9495,-87.6465,41.9446,-87.6542,member,0:04:03,2,7
+F0AD7EB14253F91B,classic_bike,00:49.1,08:43.5,Lincoln Ave & Diversey Pkwy,CHI00285,Lincoln Ave & Roscoe St*,CHI01837,41.9322,-87.6586,41.9434,-87.6707,member,0:07:54,1,7
+1662B74E9F367B1F,classic_bike,33:34.3,51:24.2,State St & Pearson St,CHI00271,Desplaines St & Randolph St,CHI00370,41.8974,-87.6287,41.8837,-87.6442,member,0:17:50,1,7
+03AEBFD355E2BB8D,classic_bike,56:22.5,34:11.4,Theater on the Lake,CHI00420,Wabash Ave & Grand Ave,CHI00313,41.9263,-87.6308,41.8915,-87.6268,casual,0:37:49,5,7
+D3122BABF923670B,electric_bike,02:01.6,23:07.9,Broadway & Sheridan Rd,CHI00476,Sangamon St & Lake St,CHI00242,41.9528,-87.65,41.8858,-87.651,member,0:21:06,2,7
+422CB41581904F64,classic_bike,50:53.2,18:07.2,Broadway & Sheridan Rd,CHI00476,Sangamon St & Lake St,CHI00242,41.9528,-87.65,41.8858,-87.651,member,0:27:14,5,7
+0309E72BBA12199C,classic_bike,51:43.1,18:54.8,Broadway & Sheridan Rd,CHI00476,Sangamon St & Lake St,CHI00242,41.9528,-87.65,41.8858,-87.651,member,0:27:12,5,7
+FC356502D9ADC46F,electric_bike,49:09.6,58:40.3,State St & Pearson St,CHI00271,Ashland Ave & Chicago Ave,CHI00338,41.8974,-87.6287,41.896,-87.6677,member,0:09:31,2,7
+533574296D68102B,electric_bike,27:19.6,31:00.8,Pine Grove Ave & Waveland Ave,CHI00354,Broadway & Belmont Ave,CHI00239,41.9495,-87.6465,41.9401,-87.6455,member,0:03:41,5,7
+8C0AA52EDBF9AB4F,classic_bike,34:55.2,39:54.3,Lincoln Ave & Diversey Pkwy,CHI00285,Halsted St & Wrightwood Ave,CHI00504,41.9322,-87.6586,41.9291,-87.6491,member,0:04:59,4,7
+9F4290674619BCAA,classic_bike,35:17.6,57:00.0,LaSalle St & Adams St,CHI00451,Clark St & Drummond Pl,CHI00385,41.8793,-87.632,41.9312,-87.6443,member,0:21:42,1,7
+F913F65D31B1F393,electric_bike,04:41.9,09:46.7,LaSalle St & Adams St,CHI00451,Financial Pl & Ida B Wells Dr,CHI00781,41.8793,-87.632,41.875,-87.6331,casual,0:05:05,4,7
+7373D5A2B55111E4,classic_bike,51:09.4,19:58.2,Theater on the Lake,CHI00420,Halsted St & Wrightwood Ave,CHI00504,41.9263,-87.6308,41.9291,-87.6491,casual,0:28:49,1,7
+CDF6716A2FBB74CF,classic_bike,52:37.7,30:10.8,Pine Grove Ave & Waveland Ave,CHI00354,Financial Pl & Ida B Wells Dr,CHI00781,41.9495,-87.6465,41.875,-87.6331,member,0:37:33,1,7
+8ACD30A0135C9D66,classic_bike,25:28.2,32:55.0,Western Ave & Division St,CHI00375,Troy St & North Ave,CHI00641,41.9029,-87.6873,41.9098,-87.7053,member,0:07:27,1,7
+BFE9F67F6B20324C,classic_bike,15:32.8,34:28.8,Millennium Park,CHI01742,Field Blvd & South Water St,CHI00383,41.881,-87.6241,41.8863,-87.6175,casual,0:18:56,3,7
+2002C543E2D841FB,classic_bike,37:06.7,56:15.8,Millennium Park,CHI01742,LaSalle St & Illinois St,CHI00358,41.881,-87.6241,41.8908,-87.6317,casual,0:19:09,4,7
+FD65233E13CDBEE5,classic_bike,59:41.2,27:05.0,Millennium Park,CHI01742,Field Blvd & South Water St,CHI00383,41.881,-87.6241,41.8863,-87.6175,member,0:27:24,5,7
+3A8A03813C6B44CE,classic_bike,15:39.5,52:21.1,Lincoln Ave & Diversey Pkwy,CHI00285,Central Park Ave & Elbridge Ave,CHI00550,41.9322,-87.6586,41.9353,-87.7169,casual,0:36:42,3,7
+21B65ACE32DEFC2A,classic_bike,54:37.7,08:52.5,Theater on the Lake,CHI00420,Sheffield Ave & Webster Ave,CHI00507,41.9263,-87.6308,41.9215,-87.6538,casual,0:14:15,4,7
+02BE179CC1645348,classic_bike,58:01.6,27:48.7,Milwaukee Ave & The 606,CHI00622,Western Ave & Winnebago Ave,CHI00282,41.9138,-87.6827,41.9155,-87.687,member,0:29:47,4,7
+EADBB9EC5CFB64C1,electric_bike,45:08.8,47:41.0,Ellis Ave & 55th St,CHI00583,Ellis Ave & 58th St,CHI00460,41.7943,-87.6014,41.7887,-87.6013,member,0:02:32,3,7
+B7AB999222F73C10,electric_bike,46:17.1,53:05.5,State St & 33rd St,CHI00223,MLK Jr Dr & 29th St,CHI00386,41.8347,-87.6258,41.8421,-87.617,member,0:06:48,2,7
+0F05ACEAA57FB0BC,classic_bike,19:17.6,33:44.8,Theater on the Lake,CHI00420,DuSable Lake Shore Dr & North Blvd,CHI00525,41.9263,-87.6308,41.9117,-87.6268,member,0:14:27,2,7
+04B867774A06E611,classic_bike,39:54.6,15:02.5,Pine Grove Ave & Waveland Ave,CHI00354,DuSable Lake Shore Dr & North Blvd,CHI00525,41.9495,-87.6465,41.9117,-87.6268,casual,0:35:08,4,7
+58E6411BD588C682,electric_bike,18:56.3,31:23.8,Damen Ave & Division St,CHI00318,Racine Ave & Wrightwood Ave,CHI00506,41.9033,-87.6784,41.9289,-87.659,casual,0:12:27,3,7
+A1CD9CD1B74B6407,classic_bike,27:37.8,47:44.6,Millennium Park,CHI01742,DuSable Lake Shore Dr & North Blvd,CHI00525,41.881,-87.6241,41.9117,-87.6268,member,0:20:07,4,7
+53148E7374976C85,classic_bike,24:01.3,39:03.3,State St & Pearson St,CHI00271,DuSable Lake Shore Dr & North Blvd,CHI00525,41.8974,-87.6287,41.9117,-87.6268,member,0:15:02,4,7
+A4D17FD7550E4771,electric_bike,55:38.5,03:18.2,State St & Pearson St,CHI00271,DuSable Lake Shore Dr & North Blvd,CHI00525,41.8974,-87.6287,41.9117,-87.6268,member,0:07:40,5,7
+76F75FB1A73C1FA2,electric_bike,09:29.6,16:04.2,Clark St & Chicago Ave,CHI00351,LaSalle St & Adams St Corral,CHI00963,41.8968,-87.6309,41.8794,-87.6321,member,0:06:35,2,7
+5077B01C87E9A0A9,classic_bike,13:16.4,09:29.4,State St & 33rd St,CHI00223,McCormick Place,CHI00607,41.8347,-87.6258,41.8514,-87.6188,member,0:56:13,2,7
+358DB967DD526F12,classic_bike,42:43.2,57:13.0,Clark St & Chicago Ave,CHI00351,Green St & Lake St ,CHI02081,41.8968,-87.6309,41.8856,-87.6484,member,0:14:30,6,7
+D7C7C02490730CD1,electric_bike,47:54.7,53:22.1,Columbus Dr & Randolph St,CHI00345,Daley Center Plaza,CHI00253,41.8847,-87.6195,41.8842,-87.6296,member,0:05:27,6,7
+C012639486FC4C7E,electric_bike,09:20.0,11:48.4,Pine Grove Ave & Waveland Ave,CHI00354,Pine Grove Ave & Irving Park Rd,CHI00482,41.9495,-87.6465,41.9544,-87.6479,member,0:02:28,1,7
+E8369E6597850021,classic_bike,48:35.1,08:24.1,Broadway & Sheridan Rd,CHI00476,Sheridan Rd & Argyle St,CHI00270,41.9528,-87.65,41.9733,-87.6548,casual,0:19:49,4,7
+23CE5B8F212D2298,electric_bike,22:10.8,26:29.9,Public Rack - Jonathan Y Scammon Public School,CHI01285,Avondale Ave & Irving Park Rd,CHI00215,41.9416,-87.7324,41.9534,-87.732,casual,0:04:19,6,7
+D2013997C6892B73,electric_bike,10:38.8,15:58.5,Public Rack - Jonathan Y Scammon Public School,CHI01285,Avondale Ave & Irving Park Rd,CHI00215,41.9416,-87.7324,41.9534,-87.732,casual,0:05:20,4,7
+E0DF9B6C64F56E6B,classic_bike,09:52.3,14:51.0,Broadway & Sheridan Rd,CHI00476,Broadway & Cornelia Ave,CHI00430,41.9528,-87.65,41.9455,-87.6464,casual,0:04:59,1,7
+87117D2F8CDB4845,classic_bike,46:02.3,04:08.6,Theater on the Lake,CHI00420,Broadway & Cornelia Ave,CHI00430,41.9263,-87.6308,41.9455,-87.6464,casual,0:18:06,6,7
+4CE254B99974446D,electric_bike,25:01.9,20:57.9,Millennium Park,CHI01742,Wabash Ave & Wacker Pl,CHI00416,41.881,-87.6241,41.8869,-87.626,casual,0:55:56,1,7
+030B746062ECCDFE,classic_bike,15:09.4,21:38.9,Broadway & Sheridan Rd,CHI00476,Broadway & Cornelia Ave,CHI00430,41.9528,-87.65,41.9455,-87.6464,member,0:06:29,7,7
+FC8B60B9CC19152D,classic_bike,29:00.2,49:28.7,Millennium Park,CHI01742,Griffin Museum of Science and Industry,CHI00574,41.881,-87.6241,41.7917,-87.5839,casual,1:20:28,5,7

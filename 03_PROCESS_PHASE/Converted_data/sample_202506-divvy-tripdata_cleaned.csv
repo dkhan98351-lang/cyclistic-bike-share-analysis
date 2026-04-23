@@ -1,0 +1,100 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual,ride_length,day_of_the_week,month
+0E43949BF937C7DA,electric_bike,24:56.1,38:44.4,Clark St & Armitage Ave,CHI00474,Dearborn Pkwy & Delaware Pl,CHI00306,41.9183,-87.6363,41.899,-87.6299,member,0:13:48,7,6
+1CDEA40FEAF21789,classic_bike,03:34.5,13:19.8,Dearborn Pkwy & Delaware Pl,CHI00306,Kingsbury St & Kinzie St,CHI00299,41.899,-87.6299,41.8892,-87.6385,member,0:09:45,2,6
+7ECEB1638575575C,classic_bike,30:22.5,39:53.6,Dearborn Pkwy & Delaware Pl,CHI00306,Kingsbury St & Kinzie St,CHI00299,41.899,-87.6299,41.8892,-87.6385,member,0:09:31,2,6
+26E86CA213DF47DD,classic_bike,31:16.9,34:14.6,Western Ave & Leland Ave,CHI00435,Campbell Ave & Montrose Ave,CHI00214,41.9657,-87.6884,41.9615,-87.6912,member,0:02:58,7,6
+4AB14BEF19182298,classic_bike,21:43.1,28:54.0,Clark St & Elm St,CHI00281,Wells St & Huron St,CHI00294,41.903,-87.6313,41.8948,-87.6344,member,0:07:11,5,6
+534A565BA2654A41,classic_bike,15:30.5,23:43.2,Racine Ave & Belmont Ave,CHI00411,Clark St & Wellington Ave,CHI00377,41.9397,-87.6589,41.9365,-87.6475,member,0:08:13,1,6
+2B72587B6839DCC5,classic_bike,50:46.9,01:29.3,Wabash Ave & 9th St,CHI00448,Wentworth Ave & Cermak Rd*,CHI02021,41.8708,-87.6257,41.8532,-87.6319,member,0:10:42,4,6
+AF9CA7A36C8151A8,electric_bike,56:31.8,10:22.8,Racine Ave & Belmont Ave,CHI00411,Clark St & Armitage Ave,CHI00474,41.9397,-87.6589,41.9183,-87.6363,casual,0:13:51,4,6
+6757AF68B0A4392A,classic_bike,29:33.8,35:36.2,Racine Ave & Belmont Ave,CHI00411,Clark St & Wellington Ave,CHI00377,41.9397,-87.6589,41.9365,-87.6475,member,0:06:02,7,6
+87D5A57001E3726C,classic_bike,23:12.2,29:14.8,Larrabee St & Kingsbury St,CHI00245,Milwaukee Ave & Grand Ave,CHI01750,41.8978,-87.6429,41.8916,-87.6484,member,0:06:03,7,6
+7ECCFD80A18A54F5,electric_bike,09:05.3,28:42.2,Racine Ave & Fullerton Ave,CHI00273,Racine Ave & Fullerton Ave,CHI00273,41.9256,-87.6584,41.9256,-87.6584,member,0:19:37,4,6
+3E146FC06387F96E,electric_bike,38:30.5,49:44.5,Damen Ave & Pierce Ave,CHI00254,Damen Ave & Pierce Ave,CHI00254,41.9088,-87.6772,41.9088,-87.6772,member,0:11:14,1,6
+83E74DB3492CF7F7,classic_bike,49:38.4,52:02.9,Racine Ave & Fullerton Ave,CHI00273,Racine Ave & Fullerton Ave,CHI00273,41.9256,-87.6584,41.9256,-87.6584,casual,0:02:24,4,6
+FFC68AE6A83EFB86,classic_bike,07:49.4,15:32.4,State St & Randolph St,CHI00251,Franklin St & Monroe St,CHI00449,41.8846,-87.6278,41.8803,-87.6352,member,0:07:43,2,6
+1F3C968730D73DDB,classic_bike,23:07.1,37:18.8,Clark St & Elm St,CHI00281,McClurg Ct & Ohio St,CHI00330,41.903,-87.6313,41.8926,-87.6173,member,0:14:12,4,6
+73ADFFB64A5A5D4F,classic_bike,18:08.7,28:44.9,Clark St & Elm St,CHI00281,McClurg Ct & Ohio St,CHI00330,41.903,-87.6313,41.8926,-87.6173,member,0:10:36,6,6
+A31269F41F4B4218,electric_bike,21:11.2,22:11.1,Damen Ave & Cullerton St,CHI00267,Damen Ave & Cullerton St,CHI00267,41.855,-87.6757,41.855,-87.6757,member,0:01:00,3,6
+E4D4781EB63D2270,classic_bike,50:45.6,52:14.6,Damen Ave & Cortland St,CHI00388,Damen Ave & Cortland St,CHI00388,41.916,-87.6773,41.916,-87.6773,member,0:01:29,7,6
+1C4141112E855D30,classic_bike,03:22.9,04:55.8,Racine Ave & Belmont Ave,CHI00411,Racine Ave & Belmont Ave,CHI00411,41.9397,-87.6589,41.9397,-87.6589,member,0:01:33,1,6
+57322374BB78C813,classic_bike,15:55.8,37:39.1,Damen Ave & Cortland St,CHI00388,Clark St & Elm St,CHI00281,41.916,-87.6773,41.903,-87.6313,member,0:21:43,1,6
+B9FDDC9E52323DC8,classic_bike,44:36.6,25:31.1,Western Blvd & 48th Pl,CHI00735,Western Blvd & 48th Pl,CHI00735,41.8057,-87.6834,41.8057,-87.6834,member,0:40:55,3,6
+F895E3ED28640ABB,classic_bike,12:25.2,20:08.2,Desplaines St & Jackson Blvd,CHI00518,Wabash Ave & Adams St,CHI00786,41.8781,-87.6439,41.8795,-87.6257,member,0:07:43,4,6
+9536B000A0BAED4B,electric_bike,06:35.1,40:48.5,Aberdeen St & Jackson Blvd,CHI00406,Wolcott (Ravenswood) Ave & Montrose Ave,CHI00357,41.8777,-87.6548,41.9614,-87.6762,member,0:34:13,1,6
+4F62ED82A786B8F3,classic_bike,28:40.3,32:18.8,California Ave & Francis Pl,CHI00512,Western Ave & Winnebago Ave,CHI00282,41.9185,-87.6974,41.9155,-87.687,member,0:03:39,1,6
+CD3F88BC79ACD114,classic_bike,20:02.2,54:40.0,Clark St & Wellington Ave,CHI00377,Clark St & Schreiber Ave,CHI00361,41.9365,-87.6475,41.9992,-87.6712,member,0:34:38,5,6
+F1684D1F1D73D6FE,classic_bike,22:31.1,47:37.2,Clark St & Schiller St,CHI00462,Pine Grove Ave & Irving Park Rd,CHI00482,41.908,-87.6315,41.9544,-87.6479,member,0:25:06,6,6
+E9B32CA8F460005B,electric_bike,49:14.2,00:38.4,W Armitage Ave & N Sheffield Ave,CHI00836,LaSalle Dr & Huron St,CHI00640,41.9178,-87.6534,41.8949,-87.6323,member,0:11:24,3,6
+021D949CE8BD966A,electric_bike,06:04.2,11:29.7,Southport Ave & Belmont Ave,CHI00335,Sheffield Ave & Waveland Ave,CHI00310,41.9395,-87.6637,41.9494,-87.6545,member,0:05:25,3,6
+17CC0EDEBB2522CA,electric_bike,22:43.9,26:30.2,Kosciuszko Park,CHI00623,Kedzie Ave & Milwaukee Ave,CHI00378,41.9306,-87.7238,41.929,-87.708,member,0:03:46,3,6
+BCE23B9B7DC6242D,electric_bike,18:49.5,21:26.0,Wolcott (Ravenswood) Ave & Montrose Ave,CHI00357,Lincoln Ave & Sunnyside Ave,CHI00425,41.9614,-87.6762,41.963,-87.6848,member,0:02:36,2,6
+FFD3B5017A75DF87,electric_bike,19:45.1,22:04.4,Wolcott (Ravenswood) Ave & Montrose Ave,CHI00357,Lincoln Ave & Sunnyside Ave,CHI00425,41.9614,-87.6762,41.963,-87.6848,member,0:02:19,1,6
+B274DCC360F41428,electric_bike,01:29.3,03:19.8,Sangamon St & Lake St,CHI00242,Sangamon St & Lake St,CHI00242,41.8858,-87.651,41.8858,-87.651,member,0:01:50,2,6
+5CAC7027E063E6C8,classic_bike,09:44.4,15:13.6,California Ave & Francis Pl,CHI00512,Albany Ave & Bloomingdale Ave,CHI00645,41.9185,-87.6974,41.914,-87.7051,member,0:05:29,7,6
+2E0D72948D227672,electric_bike,55:29.4,59:37.0,California Ave & Francis Pl,CHI00512,Albany Ave & Bloomingdale Ave,CHI00645,41.9185,-87.6974,41.914,-87.7051,member,0:04:08,3,6
+0EB1EA9BC29EE87F,classic_bike,27:42.5,32:33.1,Leavitt St & North Ave,CHI00428,Leavitt St & Armitage Ave,CHI00467,41.9102,-87.6824,41.9178,-87.6824,member,0:04:51,3,6
+3EAE3CDC203F03FE,electric_bike,38:08.8,04:20.2,Lincoln Ave & Addison St,CHI00478,Michigan Ave & Washington St,CHI01677,41.9462,-87.6733,41.884,-87.6247,member,0:26:11,2,6
+7CB05E2937A2B04E,electric_bike,03:05.0,10:33.9,Winthrop Ave & Lawrence Ave,CHI00391,Lakefront Trail & Bryn Mawr Ave,CHI00298,41.9688,-87.6577,41.984,-87.6523,member,0:07:29,2,6
+1F6F579801A9A3B8,classic_bike,49:09.7,31:05.5,Michigan Ave & Jackson Blvd,CHI00452,Southport Ave & Roscoe St,CHI00234,41.8786,-87.6241,41.9437,-87.664,member,0:41:56,2,6
+EAFB014747EE3499,classic_bike,53:35.5,54:36.2,State St & Randolph St,CHI00251,Daley Center Plaza,CHI00253,41.8846,-87.6278,41.8842,-87.6296,member,0:01:01,6,6
+D39B28021619C44D,electric_bike,33:17.6,36:25.8,W Armitage Ave & N Sheffield Ave,CHI00836,Larrabee St & Menomonee St,CHI00262,41.9178,-87.6534,41.9147,-87.6433,member,0:03:08,1,6
+869F3C8B0E939C41,electric_bike,18:39.9,18:44.9,Avondale Ave & Irving Park Rd,CHI00215,Avondale Ave & Irving Park Rd,CHI00215,41.9534,-87.732,41.9534,-87.732,casual,0:00:05,1,6
+B0B7181BA685DFB2,classic_bike,48:41.9,16:42.3,Sheridan Rd & Argyle St,CHI00270,Sheridan Rd & Argyle St,CHI00270,41.9733,-87.6548,41.9733,-87.6548,casual,1:28:00,3,6
+BE55268C45896E56,electric_bike,46:27.6,54:23.3,Clark St & Armitage Ave,CHI00474,Ritchie Ct & Banks St,CHI00544,41.9183,-87.6363,41.9069,-87.6262,member,0:07:56,7,6
+620A7EF1C552CB75,electric_bike,49:41.4,00:04.2,Clark St & Schiller St,CHI00462,Orleans St & Hubbard St,CHI00750,41.908,-87.6315,41.89,-87.6366,member,0:10:23,7,6
+130CF94367BB6A42,classic_bike,24:39.8,33:49.3,Archer & Wentworth,CHI02006,Calumet Ave & 21st St,CHI00560,41.8547,-87.6309,41.8542,-87.6192,member,0:09:09,2,6
+6B1EB0A739CBCF03,classic_bike,05:12.8,07:34.8,Desplaines St & Jackson Blvd,CHI00518,Clinton St & Madison St,CHI00233,41.8781,-87.6439,41.8828,-87.6412,member,0:02:22,4,6
+19D8D519C1D5AE01,classic_bike,46:39.8,05:19.7,McClurg Ct & Ohio St,CHI00330,DuSable Lake Shore Dr & Monroe St,CHI00374,41.8926,-87.6173,41.881,-87.6167,casual,0:18:40,4,6
+B506BC76DC97CC05,classic_bike,46:32.6,05:11.6,McClurg Ct & Ohio St,CHI00330,DuSable Lake Shore Dr & Monroe St,CHI00374,41.8926,-87.6173,41.881,-87.6167,casual,0:18:39,4,6
+4B055781A725C49A,classic_bike,09:28.9,22:02.4,Franklin St & Jackson Blvd,CHI02050,LaSalle St & Illinois St,CHI00358,41.8777,-87.6353,41.8908,-87.6317,member,0:12:33,2,6
+3284B6C99DE05E67,electric_bike,53:27.6,05:18.2,Clark St & Schiller St,CHI00462,LaSalle St & Washington St Corral N,CHI01756,41.908,-87.6315,41.8829,-87.6325,member,0:11:51,3,6
+B2DC5A5990EB5231,classic_bike,33:37.0,45:29.0,Clark St & Schiller St,CHI00462,Clark St & Lake St,CHI00761,41.908,-87.6315,41.886,-87.6309,member,0:11:52,6,6
+BBDE8B4DA5801F8B,electric_bike,15:51.5,18:45.6,Franklin St & Jackson Blvd,CHI02050,Wells St & Polk St,CHI00606,41.8777,-87.6353,41.8727,-87.6335,member,0:02:54,2,6
+0EE4ECF3C70A98F2,classic_bike,31:37.1,43:12.5,Clark St & Armitage Ave,CHI00474,Halsted St & Wrightwood Ave,CHI00504,41.9183,-87.6363,41.9291,-87.6491,member,0:11:35,1,6
+E7C1D0E7E1F40CE0,classic_bike,22:03.6,34:01.6,Clark St & Armitage Ave,CHI00474,Clark St & Drummond Pl,CHI00385,41.9183,-87.6363,41.9312,-87.6443,casual,0:11:58,7,6
+2D9F9F12D5751880,classic_bike,47:52.0,04:20.7,Wells St & Huron St,CHI00294,Ashland Ave & Augusta Blvd,CHI02012,41.8948,-87.6344,41.8996,-87.6684,member,0:16:29,3,6
+FB98655225EE84EE,electric_bike,47:17.2,55:09.8,Wolcott (Ravenswood) Ave & Montrose Ave,CHI00357,Ashland Ave & Wellington Ave,CHI00408,41.9614,-87.6762,41.9361,-87.6698,member,0:07:53,4,6
+17EAD006D0C1FE90,electric_bike,06:31.4,24:41.0,Clark St & Elm St,CHI00281,Clarendon Ave & Junior Ter,CHI00395,41.903,-87.6313,41.961,-87.6496,member,0:18:10,3,6
+0B0C3F761420C49D,electric_bike,37:23.2,46:01.5,Damen Ave & Cortland St,CHI00388,Sheffield Ave & Kingsbury St,CHI02023,41.916,-87.6773,41.9105,-87.6531,member,0:08:38,2,6
+ABFA5F1C95E59CB3,classic_bike,46:53.9,52:47.0,Aberdeen St & Monroe St,CHI00321,Racine Ave & Congress Pkwy,CHI00265,41.8804,-87.6555,41.8746,-87.657,member,0:05:53,5,6
+76A9144993C07962,electric_bike,16:34.3,17:43.4,Field Blvd & South Water St,CHI00383,LaSalle St & Washington St,CHI01666,41.8863,-87.6175,41.8827,-87.6325,member,1:01:09,7,6
+6AABD0E50664DC00,classic_bike,12:03.4,23:59.1,Michigan Ave & 8th St,CHI01163,Dearborn St & Erie St,CHI00295,41.8728,-87.624,41.894,-87.6293,member,0:11:56,2,6
+F7A4A61848A6C747,electric_bike,33:32.6,46:48.3,St. Louis Ave & Fullerton Ave,CHI00219,Bernard St & Elston Ave,CHI00698,41.9248,-87.7145,41.9499,-87.7139,casual,0:13:16,2,6
+DB344AB7FFB74BB1,classic_bike,50:35.8,17:06.9,Wilton Ave & Addison St,CHI02055,Michigan Ave & Ida B Wells Dr,CHI00250,41.9475,-87.6532,41.8762,-87.6245,casual,1:26:31,4,6
+A2560DB6FD026865,classic_bike,34:15.6,45:02.7,Clark St & Schiller St,CHI00462,Sedgwick St & Huron St,CHI00241,41.908,-87.6315,41.8947,-87.6384,member,0:10:47,3,6
+B7360EC2AFA0EA96,classic_bike,12:34.4,17:08.5,Spaulding Ave & Armitage Ave,CHI00635,Humboldt Blvd & Armitage Ave,CHI00636,41.9171,-87.7102,41.9175,-87.7018,member,0:04:34,6,6
+2CC346ECDFFDB7A8,electric_bike,08:39.3,12:11.5,Lincoln Ave & Fullerton Ave,CHI00494,Sheffield Ave & Fullerton Ave,CHI00225,41.9242,-87.6464,41.9256,-87.6537,member,0:03:32,5,6
+B6D363853FD7E5D1,electric_bike,46:49.6,53:24.3,Pulaski Rd & 51st St,CHI01876,Pulaski Rd & Ann Lurie Pl,CHI01950,41.8004,-87.7247,41.8164,-87.7248,member,0:06:35,6,6
+2A48886B8BE55484,classic_bike,09:35.4,13:24.3,Damen Ave & Lake St,CHI00619,Damen Ave & Chicago Ave,CHI00316,41.885,-87.6768,41.8957,-87.6771,member,0:03:49,3,6
+1DFF75B93A06B443,classic_bike,43:30.8,04:14.7,Halsted St & Wrightwood Ave,CHI00504,Clark St & Berwyn Ave,CHI00530,41.9291,-87.6491,41.978,-87.6686,member,0:20:44,2,6
+4C25A889D569D023,electric_bike,15:49.8,21:27.1,Clark St & Drummond Pl,CHI00385,DuSable Lake Shore Dr & Belmont Ave,CHI00480,41.9312,-87.6443,41.9408,-87.6392,member,0:05:37,6,6
+9FABF03562B8A62C,electric_bike,18:44.3,24:55.1,Sheridan Rd & Argyle St,CHI00270,Broadway & Sheridan Rd,CHI00476,41.9733,-87.6548,41.9528,-87.65,member,0:06:11,7,6
+D5E4162496C875D5,classic_bike,58:41.8,04:39.7,Malcolm X College,CHI00746,Western Ave & Congress Pkwy,CHI00653,41.8776,-87.6739,41.8747,-87.6864,member,0:05:58,2,6
+F157DD0EC53B8C4B,electric_bike,22:23.7,24:31.5,Clark St & Drummond Pl,CHI00385,Stockton Dr & Wrightwood Ave,CHI00522,41.9312,-87.6443,41.9313,-87.6387,member,0:02:08,3,6
+45780B9836CB9960,classic_bike,53:36.2,08:26.5,Elmwood Ave & Austin St,CHI00739,Warren Park West,CHI00602,42.0258,-87.6841,42.0018,-87.6888,member,0:14:50,4,6
+102980F6BD887B11,classic_bike,58:26.3,09:48.0,Warren Park West,CHI00602,Elmwood Ave & Austin St,CHI00739,42.0018,-87.6888,42.0258,-87.6841,member,0:11:22,6,6
+54C44A1A3E984B00,classic_bike,55:16.8,11:39.2,Chicago Ave & Washington St,CHI02038,Warren Park West,CHI00602,42.0326,-87.6791,42.0018,-87.6888,member,0:16:22,2,6
+F0328BB0563FA72E,classic_bike,39:50.8,54:01.9,Winthrop Ave & Lawrence Ave,CHI00391,Winthrop Ave & Lawrence Ave,CHI00391,41.9688,-87.6577,41.9688,-87.6577,member,0:14:11,2,6
+1F8BB80107B16DC9,electric_bike,05:49.1,29:28.1,Wells St & Randolph St Corral,CHI01540,St. Louis Ave & Fullerton Ave,CHI00219,41.8844,-87.634,41.9248,-87.7145,member,0:23:39,1,6
+ABF1078565D43E85,classic_bike,20:01.2,28:47.0,McClurg Ct & Ohio St,CHI00330,Dearborn Pkwy & Delaware Pl,CHI00306,41.8926,-87.6173,41.899,-87.6299,member,0:08:46,6,6
+2B4D459216C3912F,classic_bike,11:14.2,22:20.5,McClurg Ct & Ohio St,CHI00330,Dearborn Pkwy & Delaware Pl,CHI00306,41.8926,-87.6173,41.899,-87.6299,casual,0:11:06,2,6
+2C291869AE6C079D,classic_bike,18:02.9,59:51.2,California Ave & Milwaukee Ave,CHI00307,California Ave & Francis Pl,CHI00512,41.9227,-87.6972,41.9185,-87.6974,member,0:41:48,5,6
+BC180B3BFCA45FE3,electric_bike,50:02.1,09:52.7,Broadway & Belmont Ave,CHI00239,St. Louis Ave & Fullerton Ave,CHI00219,41.9401,-87.6455,41.9248,-87.7145,member,0:19:51,1,6
+2FD123ACC721FA6B,electric_bike,34:00.7,37:05.0,Wood St & Milwaukee Ave,CHI00329,Leavitt St & North Ave,CHI00428,41.9077,-87.6726,41.9102,-87.6824,member,0:03:04,2,6
+C9280E8F4773B396,classic_bike,17:10.1,29:26.1,Clinton St & Madison St,CHI00233,Dearborn Pkwy & Delaware Pl,CHI00306,41.8828,-87.6412,41.899,-87.6299,member,0:12:16,4,6
+627194E83E9BF950,electric_bike,05:48.1,16:13.7,Ashland Ave & Blackhawk St,CHI00333,California Ave & Francis Pl,CHI00512,41.9071,-87.6673,41.9185,-87.6974,member,0:10:26,3,6
+6619476EC785FBA9,classic_bike,18:01.0,26:31.6,Larrabee St & Kingsbury St,CHI00245,Dearborn Pkwy & Delaware Pl,CHI00306,41.8978,-87.6429,41.899,-87.6299,member,0:08:31,3,6
+B3FA7316B3D3B033,classic_bike,57:52.5,10:54.5,Canal St & Monroe St,CHI00398,Dearborn Pkwy & Delaware Pl,CHI00306,41.8829,-87.6397,41.899,-87.6299,member,0:13:02,2,6
+61D0A27687312ECD,classic_bike,43:33.2,54:34.6,Canal St & Monroe St,CHI00398,Dearborn Pkwy & Delaware Pl,CHI00306,41.8829,-87.6397,41.899,-87.6299,member,0:11:01,3,6
+3B5AE7849526727B,classic_bike,18:34.9,22:33.3,Southport Ave & Roscoe St,CHI00234,Lincoln Ave & Addison St,CHI00478,41.9437,-87.664,41.9462,-87.6733,member,0:03:58,7,6
+88FE5188226573FC,classic_bike,15:41.2,21:35.8,LaSalle St & Illinois St,CHI00358,Dearborn Pkwy & Delaware Pl,CHI00306,41.8908,-87.6317,41.899,-87.6299,casual,0:05:55,1,6
+423BB097735E6524,electric_bike,00:14.8,05:52.4,Michigan Ave & Oak St,CHI00252,Dearborn Pkwy & Delaware Pl,CHI00306,41.901,-87.6238,41.899,-87.6299,casual,0:05:38,7,6
+09085E18FA334BA2,classic_bike,35:39.8,15:14.3,Michigan Ave & Oak St,CHI00252,Winthrop Ave & Lawrence Ave,CHI00391,41.901,-87.6238,41.9688,-87.6577,casual,0:39:34,3,6
+97FEA5A92A24A206,classic_bike,09:09.8,16:11.5,Kingsbury St & Kinzie St,CHI00299,Dearborn Pkwy & Delaware Pl,CHI00306,41.8892,-87.6385,41.899,-87.6299,casual,0:07:02,7,6
+D9F016EF350873B9,classic_bike,01:03.3,15:25.1,Larrabee St & Webster Ave,CHI00454,Dearborn Pkwy & Delaware Pl,CHI00306,41.9218,-87.6441,41.899,-87.6299,casual,0:14:22,2,6
+B13B79B8C9A748D0,classic_bike,34:57.1,45:59.2,Troy St & Elston Ave,CHI00570,Lincoln Ave & Addison St,CHI00478,41.9452,-87.7066,41.9462,-87.6733,member,0:11:02,2,6
+0DA15A19F323AC6A,electric_bike,04:41.8,13:22.5,Wells St & Huron St,CHI00294,Aberdeen St & Randolph St,CHI00715,41.8948,-87.6344,41.8841,-87.6543,member,0:08:41,4,6
+ACB3ED19507CD3BC,electric_bike,23:42.2,40:40.3,Clark St & Elm St,CHI00281,Larrabee St & Webster Ave,CHI00454,41.903,-87.6313,41.9218,-87.6441,member,0:16:58,6,6
+852F7493E3CE2E48,classic_bike,42:20.3,58:07.7,Clark St & Elm St,CHI00281,Larrabee St & Webster Ave,CHI00454,41.903,-87.6313,41.9218,-87.6441,casual,0:15:47,7,6
+6.76E+15,classic_bike,04:53.7,07:21.8,Sheffield Ave & Wellington Ave,CHI00274,Wilton Ave & Belmont Ave,CHI00353,41.9363,-87.6527,41.9402,-87.6529,member,0:02:28,2,6

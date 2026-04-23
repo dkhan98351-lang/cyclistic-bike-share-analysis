@@ -1,0 +1,100 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual,ride_length,day_of_the_week,month
+AF3863596DF9D94B,classic_bike,29:34.6,36:23.6,Troy St & Elston Ave,15631,Richmond St & Diversey Ave,15645,41.9452,-87.7066,41.9319,-87.7012,member,0:06:49,4,4
+8B38081EBE918800,electric_bike,48:51.9,59:06.0,Wabash Ave & Adams St,KA1503000015,Green St & Madison St,TA1307000120,41.8795,-87.6257,41.8819,-87.6493,member,0:10:14,7,4
+1C7F1DE826BBBC8D,electric_bike,55:30.8,05:40.0,Damen Ave & Cortland St,13133,California Ave & Fletcher St,15642,41.916,-87.6773,41.9384,-87.698,member,0:10:09,5,4
+CAD23D69A79A6C3B,classic_bike,22:04.5,32:06.1,Clark St & Elm St,TA1307000039,Orleans St & Merchandise Mart Plaza,TA1305000022,41.903,-87.6313,41.8882,-87.6364,member,0:10:02,3,4
+BE241E601482E0AB,electric_bike,09:55.3,19:58.9,Western Ave & Walton St,KA1504000103,Damen Ave & Charleston St,13288,41.8984,-87.6866,41.9201,-87.6779,member,0:10:04,4,4
+752C0388D68EBBE5,electric_bike,33:34.5,41:50.0,Western Ave & Walton St,KA1504000103,Damen Ave & Charleston St,13288,41.8984,-87.6866,41.9201,-87.6779,member,0:08:15,7,4
+C2C6CE2F046E4B4A,classic_bike,11:59.3,29:09.3,Lincoln Ave & Roscoe St*,chargingstx5,Broadway & Cornelia Ave,13278,41.9434,-87.6707,41.9455,-87.6464,member,0:17:10,7,4
+D1004EF94E7957C3,electric_bike,28:47.6,49:30.8,Damen Ave & Cortland St,13133,Broadway & Wilson Ave,13074,41.916,-87.6773,41.9652,-87.6581,member,0:20:43,3,4
+95DC50DED42F7876,classic_bike,19:32.8,24:02.7,Clark St & Elm St,TA1307000039,Clark St & North Ave,13128,41.9033,-87.633,41.912,-87.6319,member,0:04:30,4,4
+5CB06C086A4C8C21,classic_bike,08:21.8,52:59.8,Michigan Ave & Madison St,13036,Wabash Ave & Grand Ave,TA1307000117,41.8821,-87.6251,41.8915,-87.6268,casual,0:44:38,4,4
+F9F573B7B4F72DAA,classic_bike,07:38.3,52:57.0,Michigan Ave & Madison St,13036,Wabash Ave & Grand Ave,TA1307000117,41.8821,-87.6251,41.8915,-87.6268,casual,0:45:19,2,4
+D4B0A1EAD29A8A09,classic_bike,07:41.4,17:57.3,Elizabeth St & Randolph St,23001,Green St & Randolph St*,chargingstx3,41.8843,-87.6589,41.8836,-87.6486,member,0:10:16,2,4
+1CEBACC317AB7A02,classic_bike,48:51.9,53:03.4,Desplaines St & Kinzie St,TA1306000003,Jefferson St & Monroe St,WL-011,41.8887,-87.6444,41.8803,-87.6427,member,0:04:12,5,4
+E0E006E99CDBC225,electric_bike,46:22.2,53:44.9,Broadway & Wilson Ave,13074,Broadway & Waveland Ave,13325,41.9652,-87.6581,41.9491,-87.6486,member,0:07:23,3,4
+E802E9C4D399F3B6,classic_bike,59:52.3,12:08.5,Broadway & Wilson Ave,13074,Sheridan Rd & Buena Ave,TA1309000027,41.9652,-87.6581,41.9585,-87.655,member,0:12:16,5,4
+DE01BDBB563F6A0F,classic_bike,36:45.4,43:47.6,Elizabeth St & Randolph St,23001,Carpenter St & Huron St,13196,41.8843,-87.6589,41.8946,-87.6534,member,0:07:02,5,4
+5DC08873AC6856BE,classic_bike,11:23.8,43:59.1,Pine Grove Ave & Irving Park Rd,13324,Canal St & Madison St,13341,41.9544,-87.6479,41.8824,-87.6398,member,0:32:35,4,4
+2D0BB545123FA393,electric_bike,06:05.9,16:08.2,Wabash Ave & Grand Ave,TA1307000117,Elizabeth St & Randolph St,23001,41.8915,-87.6268,41.8843,-87.6589,member,0:10:02,5,4
+C41A8AD77D3DE928,electric_bike,09:08.5,25:00.1,Halsted St & Maxwell St,TA1309000001,Wells St & Huron St,13064,41.8649,-87.6471,41.8948,-87.6344,member,0:15:52,1,4
+15B0E26F4F8F0F27,classic_bike,28:29.0,37:39.4,Damen Ave & Cortland St,13133,Milwaukee Ave & Rockwell St,13242,41.916,-87.6773,41.9203,-87.6931,member,0:09:10,2,4
+5611D82B2B8212A1,classic_bike,15:46.6,26:20.7,Dorchester Ave & 49th St,KA1503000069,Woodlawn Ave & 58th St,22002,41.8058,-87.5925,41.7894,-87.5965,member,0:10:34,6,4
+3E0BC6A192B9D11B,classic_bike,03:59.3,07:35.9,Broadway & Wilson Ave,13074,Sheridan Rd & Lawrence Ave,TA1309000041,41.9652,-87.6581,41.9695,-87.6547,member,0:03:37,6,4
+FF0C17EB1FEC7DE4,classic_bike,53:18.9,58:22.8,Evanston Civic Center,661,Benson Ave & Church St,596,42.057,-87.6866,42.0482,-87.6835,casual,0:05:04,6,4
+A29E6FAB512C36F0,classic_bike,22:07.8,35:47.1,Michigan Ave & 18th St,13150,Dearborn St & Van Buren St,624,41.8579,-87.6243,41.8763,-87.6292,member,0:13:39,5,4
+1716CAD734096361,classic_bike,16:36.7,29:40.0,Michigan Ave & 18th St,13150,Dearborn St & Van Buren St,624,41.8579,-87.6243,41.8763,-87.6292,member,0:13:03,7,4
+781F01E49C19A8C7,classic_bike,39:16.1,40:44.9,Lake Park Ave & 35th St,KA1503000004,Lake Park Ave & 35th St,KA1503000004,41.8313,-87.6088,41.8313,-87.6088,casual,2:01:29,1,4
+E9B3919CD797C8EB,electric_bike,49:39.8,56:05.9,Public Rack - Avers & Lawrence,1226,Keystone Ave & Montrose Ave,KA1504000164,41.9684,-87.7245,41.9611,-87.729,member,0:06:26,5,4
+7C3F3F25706F1893,electric_bike,07:53.9,11:15.3,Halsted St & Maxwell St,TA1309000001,Halsted St & Polk St,TA1307000121,41.8649,-87.6471,41.8718,-87.6466,member,0:03:21,4,4
+1425307B802912A7,classic_bike,34:41.8,41:27.7,Cherry Ave & Blackhawk St,18069,Elston Ave & Cortland St,TA1305000039,41.9072,-87.6556,41.9164,-87.6667,member,0:06:46,3,4
+03FD352FBA7F2DEF,classic_bike,02:25.1,06:18.1,Michigan Ave & Madison St,13036,LaSalle St & Washington St,13006,41.8821,-87.6251,41.8827,-87.6325,member,0:03:53,1,4
+76096CC162752E87,classic_bike,21:10.4,39:30.3,Wells St & 19th St,SL-006,Wells St & 19th St,SL-006,41.8568,-87.6339,41.8568,-87.6339,casual,0:18:20,7,4
+82B3A72973F9555D,electric_bike,33:26.2,33:39.6,N Paulina St & Lincoln Ave,20253,N Paulina St & Lincoln Ave,20253,41.9438,-87.6715,41.9438,-87.6715,casual,0:00:13,7,4
+8E790254E1528CD6,electric_bike,31:09.9,31:29.3,N Paulina St & Lincoln Ave,20253,N Paulina St & Lincoln Ave,20253,41.9438,-87.6715,41.9438,-87.6715,casual,0:00:19,7,4
+4617DABB59F13FF0,electric_bike,34:20.7,34:33.3,N Paulina St & Lincoln Ave,20253,N Paulina St & Lincoln Ave,20253,41.9438,-87.6715,41.9438,-87.6715,casual,0:00:13,7,4
+8CCE0B14A5D7FFF4,electric_bike,32:52.6,33:07.0,N Paulina St & Lincoln Ave,20253,N Paulina St & Lincoln Ave,20253,41.9438,-87.6715,41.9438,-87.6715,casual,0:00:14,6,4
+527B2C47468E82DB,classic_bike,16:04.3,24:39.0,Wells St & 19th St,SL-006,Wells St & 19th St,SL-006,41.8568,-87.6339,41.8568,-87.6339,casual,0:08:35,4,4
+EAE458BB6B131668,electric_bike,25:55.3,35:02.6,Michigan Ave & Jackson Blvd,TA1309000002,McClurg Ct & Ohio St,TA1306000029,41.8778,-87.6242,41.8926,-87.6173,member,0:09:07,1,4
+E930EED78AA284F5,electric_bike,34:15.3,43:32.5,Western Ave & Walton St,KA1504000103,Paulina St & Flournoy St,KA1504000104,41.8984,-87.6866,41.8731,-87.6691,member,0:09:17,2,4
+88F23391B221B2F7,electric_bike,11:38.5,14:10.0,Desplaines St & Kinzie St,TA1306000003,Franklin St & Illinois St,RN-,41.8887,-87.6444,41.891,-87.6355,member,0:02:31,1,4
+A34C2F0F29F0F717,electric_bike,12:32.6,16:56.1,Western Ave & Walton St,KA1504000103,Damen Ave & Chicago Ave,13132,41.8984,-87.6866,41.8957,-87.6771,member,0:04:23,5,4
+289F57818AA44D3D,classic_bike,54:54.6,59:35.5,State St & Randolph St,TA1305000029,State St & Harrison St,SL-007,41.8846,-87.6278,41.8741,-87.6277,member,0:04:41,6,4
+DF40EB04498ECB87,electric_bike,17:45.1,21:31.0,Michigan Ave & Madison St,13036,Clark St & Lake St,KA1503000012,41.8821,-87.6251,41.886,-87.6309,member,0:03:46,2,4
+569CC15176BBA98C,classic_bike,21:56.0,44:12.2,Wood St & Taylor St (Temp),13285,Damen Ave & Pierce Ave,TA1305000041,41.8693,-87.6737,41.9088,-87.6772,member,0:22:16,2,4
+C3CE1A1BA1E0D060,electric_bike,42:13.4,50:24.7,McClurg Ct & Ohio St,TA1306000029,Milwaukee Ave & Grand Ave,13033,41.8926,-87.6173,41.8916,-87.6484,member,0:08:11,5,4
+D16C2CAA4D0A0EB3,electric_bike,03:42.8,17:32.7,Wood St & Taylor St (Temp),13285,Damen Ave & Pierce Ave,TA1305000041,41.8693,-87.6737,41.9088,-87.6772,member,0:13:50,3,4
+3A715F46B37B3C50,electric_bike,13:52.3,59:50.8,McClurg Ct & Ohio St,TA1306000029,Damen Ave & Pierce Ave,TA1305000041,41.8926,-87.6173,41.9088,-87.6772,casual,0:45:58,2,4
+79F17EDB918404CD,classic_bike,48:34.5,58:18.5,Clark St & Schiller St,TA1309000024,Lincoln Ave & Fullerton Ave,TA1309000058,41.908,-87.6315,41.9242,-87.6464,member,0:09:44,3,4
+E050EE0E3AB9811A,electric_bike,50:51.9,00:25.1,Clark St & Elm St,TA1307000039,Halsted St & Wrightwood Ave,TA1309000061,41.903,-87.6313,41.9291,-87.6491,member,0:09:33,2,4
+9EEF3BBE102094D5,classic_bike,47:15.4,51:29.2,Michigan Ave & Madison St,13036,Franklin St & Adams St ,TA1309000008,41.8821,-87.6251,41.8794,-87.6355,member,0:04:14,7,4
+5EA88F85853FB416,classic_bike,56:38.2,17:28.5,Franklin St & Jackson Blvd,TA1305000025,Noble St & Milwaukee Ave,13290,41.8777,-87.6353,41.9007,-87.6626,member,0:20:50,2,4
+A6C77ACE17AB6A26,classic_bike,26:14.9,55:47.7,Wolcott Ave & Polk St,TA1309000064,Burnham Harbor,15545,41.8713,-87.6737,41.8574,-87.6138,member,0:29:33,4,4
+68570FAE07FAC346,classic_bike,52:37.1,57:42.2,Elizabeth St & Randolph St,23001,Wood St & Hubbard St,13432,41.8843,-87.6589,41.8897,-87.672,member,0:05:05,4,4
+2630FFC18A282036,classic_bike,11:26.0,22:06.1,Halsted St & Maxwell St,TA1309000001,Aberdeen St & Randolph St,18062,41.8649,-87.6471,41.8841,-87.6543,member,0:10:40,1,4
+72785C354562C95A,classic_bike,05:22.6,15:40.8,Milwaukee Ave & Grand Ave,13033,Dearborn Pkwy & Delaware Pl,TA1307000128,41.8916,-87.6484,41.899,-87.6299,member,0:10:18,3,4
+7FF7EDF56E7E7C47,electric_bike,30:13.0,41:31.8,Racine Ave & Fullerton Ave,TA1306000026,Lincoln Ave & Addison St,TA1309000050,41.9256,-87.6584,41.9462,-87.6733,member,0:11:19,4,4
+989A23A6121D5A53,electric_bike,04:18.0,13:14.5,Franklin St & Monroe St,TA1309000007,Sedgwick St & Schiller St,TA1307000143,41.8803,-87.6352,41.9076,-87.6386,member,0:08:56,7,4
+97E8A05CFACAEF02,electric_bike,30:10.3,34:46.4,Wabash Ave & Grand Ave,TA1307000117,Desplaines St & Kinzie St,TA1306000003,41.8915,-87.6268,41.8887,-87.6444,casual,0:04:36,2,4
+4312385CE9DBFE81,electric_bike,25:16.4,28:39.7,Western Ave & Walton St,KA1504000103,Damen Ave & Division St,13136,41.8984,-87.6866,41.9033,-87.6784,member,0:03:23,3,4
+3F4B494B676E6E9E,electric_bike,17:27.8,45:54.1,Dorchester Ave & 49th St,KA1503000069,Franklin St & Jackson Blvd,TA1305000025,41.8058,-87.5925,41.8777,-87.6353,member,0:28:26,2,4
+0D3F109A3283DECD,electric_bike,28:29.9,58:04.8,Dorchester Ave & 49th St,KA1503000069,Franklin St & Jackson Blvd,TA1305000025,41.8058,-87.5925,41.8777,-87.6353,member,0:29:35,2,4
+DB7B3266FBF4F62B,electric_bike,25:01.7,45:35.2,Elston Ave & Henderson St,433,Damen Ave & Foster Ave,KA1504000149,41.9415,-87.7011,41.9758,-87.6795,member,0:20:33,6,4
+C00F59CF8F77396F,classic_bike,41:20.1,00:42.6,Talman Ave & Addison St,15632,Richmond St & Diversey Ave,15645,41.9466,-87.6946,41.9319,-87.7012,member,0:19:23,4,4
+3C6ADD3DD619E3C4,electric_bike,22:16.8,34:21.4,Milwaukee Ave & Ainslie St,24370,Public Rack - Avers & Lawrence,1226,41.9686,-87.7611,41.9684,-87.7245,casual,0:12:05,5,4
+7D3CEAA090F442F0,classic_bike,38:07.2,11:28.2,Streeter Dr & Grand Ave,13022,Franklin St & Jackson Blvd,TA1305000025,41.8923,-87.612,41.8777,-87.6353,casual,0:33:21,5,4
+FF0DDD410C92B8DC,electric_bike,13:04.8,30:04.7,Halsted St & Clybourn Ave,331,Franklin St & Jackson Blvd,TA1305000025,41.9097,-87.6481,41.8777,-87.6353,member,0:17:00,4,4
+266474618F71FDED,classic_bike,28:59.8,30:09.8,Franklin St & Adams St (Temp),TA1309000008,Franklin St & Jackson Blvd,TA1305000025,41.8794,-87.6355,41.8777,-87.6353,member,0:01:10,4,4
+B373ADE7421C7927,classic_bike,22:03.2,23:11.5,Franklin St & Adams St (Temp),TA1309000008,Franklin St & Jackson Blvd,TA1305000025,41.8794,-87.6355,41.8777,-87.6353,member,0:01:08,4,4
+F33C6DD3234A093E,classic_bike,25:23.1,26:36.8,Franklin St & Adams St (Temp),TA1309000008,Franklin St & Jackson Blvd,TA1305000025,41.8794,-87.6355,41.8777,-87.6353,member,0:01:14,2,4
+71598CBBB43FDE0D,classic_bike,06:58.3,09:04.9,Franklin St & Jackson Blvd,TA1305000025,Franklin St & Jackson Blvd,TA1305000025,41.8777,-87.6353,41.8777,-87.6353,casual,0:02:07,7,4
+ACF72FA9A4D6BE51,electric_bike,01:07.8,19:27.9,Sheffield Ave & Wellington Ave,TA1307000052,Ogden Ave & Race Ave,13194,41.9363,-87.6527,41.8918,-87.6588,member,0:18:20,5,4
+652F6EA149868059,electric_bike,12:09.5,17:41.9,Damen Ave & Lake St,KA17018054,Ogden Ave & Race Ave,13194,41.885,-87.6768,41.8918,-87.6588,casual,0:05:32,4,4
+082E7E4E5F280EC3,classic_bike,11:09.6,15:21.0,Michigan Ave & Madison St,13036,Michigan Ave & Ida B Wells Dr,TA1305000010,41.8821,-87.6251,41.8762,-87.6245,casual,0:04:11,3,4
+B5759664412E5B23,classic_bike,25:32.6,37:03.4,Wabash Ave & 16th St,SL-012,Franklin St & Jackson Blvd,TA1305000025,41.8604,-87.6258,41.8777,-87.6353,member,0:11:31,6,4
+70CEF189D6E8B7A1,electric_bike,44:15.3,56:31.1,Walsh Park,18067,Ogden Ave & Race Ave,13194,41.9146,-87.668,41.8918,-87.6588,member,0:12:16,6,4
+447B6579996AD1F1,electric_bike,22:01.9,29:53.7,Ashland Ave & 13th St,13354,Halsted St & 18th St,13099,41.8652,-87.6665,41.8575,-87.646,member,0:07:52,2,4
+0233E36AA0EEF153,classic_bike,22:11.9,57:38.8,LaSalle Dr & Huron St,KP1705001026,Franklin St & Jackson Blvd,TA1305000025,41.8949,-87.6323,41.8777,-87.6353,member,0:35:27,7,4
+C7B168DD045E1991,electric_bike,18:18.5,30:41.5,W Armitage Ave & N Sheffield Ave,20254,Ogden Ave & Race Ave,13194,41.9178,-87.6534,41.8918,-87.6588,member,0:12:23,6,4
+2E843771517ED269,classic_bike,01:23.2,47:08.3,Southport Ave & Clark St,TA1308000047,Franklin St & Jackson Blvd,TA1305000025,41.9571,-87.6642,41.8777,-87.6353,member,0:45:45,4,4
+E502767006FB6273,electric_bike,36:19.6,44:22.8,Clinton St & Madison St,TA1305000032,Michigan Ave & Ida B Wells Dr,TA1305000010,41.8828,-87.6412,41.8762,-87.6245,member,0:08:03,5,4
+CF5C1F4B0C634F98,classic_bike,48:09.1,53:07.2,Clinton St & Madison St,TA1305000032,Franklin St & Jackson Blvd,TA1305000025,41.8828,-87.6412,41.8777,-87.6353,member,0:04:58,5,4
+1F360B9E838FBEF4,classic_bike,58:10.3,07:18.6,Desplaines St & Kinzie St,TA1306000003,Franklin St & Jackson Blvd,TA1305000025,41.8887,-87.6444,41.8777,-87.6353,member,0:09:08,1,4
+E97D8A40802C1D78,classic_bike,48:26.4,57:39.0,Clark St & Leland Ave,TA1309000014,Damen Ave & Foster Ave,KA1504000149,41.9671,-87.6673,41.9758,-87.6795,member,0:09:13,4,4
+FE4DB2F18BE9AFA4,classic_bike,55:57.8,01:15.7,Wells St & 19th St,SL-006,Halsted St & 18th St,13099,41.8568,-87.6339,41.8575,-87.646,member,0:05:18,1,4
+5107706F408F410B,classic_bike,40:59.7,42:44.1,Burnham Harbor,15545,Michigan Ave & Ida B Wells Dr,TA1305000010,41.8574,-87.6138,41.8762,-87.6245,casual,1:01:44,2,4
+DCA53677699E67A9,electric_bike,25:00.4,31:01.0,Indiana Ave & Roosevelt Rd,SL-005,Franklin St & Jackson Blvd,TA1305000025,41.8679,-87.623,41.8777,-87.6353,member,0:06:01,5,4
+820F6DE4FA673BED,electric_bike,20:07.7,24:09.2,Canal St & Adams St,13011,Franklin St & Jackson Blvd,TA1305000025,41.8793,-87.6399,41.8777,-87.6353,casual,0:04:02,4,4
+5842CC2E190CBAC6,classic_bike,09:11.7,12:28.2,State St & Van Buren St,TA1305000035,Michigan Ave & Ida B Wells Dr,TA1305000010,41.8772,-87.6278,41.8762,-87.6245,member,0:03:17,1,4
+AEE9FE552576B4A0,electric_bike,21:22.9,42:24.9,Ogden Ave & Race Ave,13194,Ogden Ave & Race Ave,13194,41.8918,-87.6588,41.8918,-87.6588,member,0:21:02,7,4
+A3F44852CCF831C0,classic_bike,30:24.6,32:14.0,Franklin St & Jackson Blvd,TA1305000025,Franklin St & Jackson Blvd,TA1305000025,41.8777,-87.6353,41.8777,-87.6353,casual,0:01:49,7,4
+D2DD109380617AEE,classic_bike,35:43.0,37:36.8,Franklin St & Jackson Blvd,TA1305000025,Franklin St & Jackson Blvd,TA1305000025,41.8777,-87.6353,41.8777,-87.6353,casual,0:01:54,4,4
+C6DAF3530FD97541,classic_bike,08:15.6,24:56.5,Franklin St & Jackson Blvd,TA1305000025,Franklin St & Jackson Blvd,TA1305000025,41.8777,-87.6353,41.8777,-87.6353,member,0:16:41,5,4
+D8C5C916752D6A81,electric_bike,37:02.4,41:52.1,Peoria St & Jackson Blvd,13158,Franklin St & Jackson Blvd,TA1305000025,41.8776,-87.6496,41.8777,-87.6353,casual,0:04:50,7,4
+DB6889EA14694B94,classic_bike,35:59.5,38:04.8,Financial Pl & Ida B Wells Dr,SL-010,Franklin St & Jackson Blvd,TA1305000025,41.875,-87.6331,41.8777,-87.6353,member,0:02:05,4,4
+E2623AC6954B489D,electric_bike,22:43.2,26:24.6,Racine Ave & Washington Blvd,654,Ogden Ave & Race Ave,13194,41.8831,-87.657,41.8918,-87.6588,member,0:03:41,4,4
+D27D6FA0BEDE0C97,classic_bike,39:22.4,47:23.7,Ashland Ave & Lake St,13073,Ogden Ave & Race Ave,13194,41.8859,-87.6672,41.8918,-87.6588,casual,0:08:01,4,4
+7086616B42242F48,classic_bike,23:05.5,32:48.3,Wabash Ave & 16th St,SL-012,Franklin St & Jackson Blvd,TA1305000025,41.8604,-87.6258,41.8777,-87.6353,member,0:09:43,2,4
+645F2426A48F97D2,electric_bike,43:52.4,52:44.7,Rockwell St & Eastwood Ave,KA1504000093,Damen Ave & Foster Ave,KA1504000149,41.9659,-87.6936,41.9758,-87.6795,member,0:08:52,1,4
+6D530146DD87D3F3,classic_bike,27:19.4,02:15.2,Clark St & Elm St,TA1307000039,Richmond St & Diversey Ave,15645,41.903,-87.6313,41.9319,-87.7012,member,0:34:56,5,4
+C7445D1DAC991A83,classic_bike,35:37.3,44:20.2,Broadway & Wilson Ave,13074,Damen Ave & Foster Ave,KA1504000149,41.9652,-87.6581,41.9758,-87.6795,member,0:08:43,7,4
