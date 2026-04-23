@@ -1,0 +1,24 @@
+day_name,day_of_the_week,ride_counts_casual,ride_counts_member,avg_duration_casual,avg_duration_member,difference,total_rides
+Sunday,1,204354,284901,23.36,12.61,10.75,489255
+Monday,2,170474,348563,22.17,11.96,10.21,519037
+Tuesday,3,168779,369982,21.5,12.04,9.46,538761
+Wednesday,4,161386,351412,21.27,11.96,9.31,512798
+Thursday,5,179339,367034,21.62,12.03,9.59,546373
+Friday,6,207963,360452,21.99,12.16,9.83,568415
+Saturday,7,244938,319210,23.05,12.59,10.46,564148
+,,,,,,,
+,,,,,,,
+WEEKDAY DISTRIBUTION (Monday-Friday):,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,members,total,,percentage
+,,,,Annual Members,1797443,,74.84
+,,,,Casual Riders ,887941,,66.4
+,,,,,,,
+,,,,,,,
+,,,,,,,
+WEEKEND DISTRIBUTION (Saturday-Sunday):,,,,,,,
+,,,,,,,
+,,,,members,total,,percentage
+,,,,Annual Members,604111,,25.16
+,,,,Casual Riders,449292,,33.6
