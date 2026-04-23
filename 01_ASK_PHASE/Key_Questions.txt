@@ -1,0 +1,95 @@
+# Key Questions
+
+## Guiding Framework Questions
+
+These foundational questions guide the entire Ask Phase of analysis:
+
+### 1. What is the problem we are trying to solve?
+
+**Answer:**  
+Cyclistic needs to convert casual riders into annual members to maximize profitability and drive future growth. The company possesses general market awareness but lacks strategic understanding of how and why different customer types use the service differently. Without this insight, marketing efforts cannot be effectively targeted.
+
+**Key Insight:**  
+The opportunity lies in converting *existing* casual riders who already know Cyclistic, rather than acquiring entirely new customers.
+
+---
+
+### 2. How can our insights drive business decisions?
+
+**Answer:**  
+By identifying distinct behavioral patterns between annual members and casual riders, this analysis will enable Cyclistic to:
+- Tailor marketing messages to casual rider preferences and pain points
+- Optimize digital media spending on high-impact channels for the target audience
+- Design membership value propositions based on actual usage patterns
+- Measure marketing ROI by aligning recommendations with behavioral data
+
+**Business Impact:**  
+Data-backed recommendations will give executives the confidence to approve and fund targeted marketing initiatives.
+
+---
+
+## Primary Research Question
+
+### How do annual members and casual riders use Cyclistic bikes differently?
+
+This is our main analytical focus and it will be answered by investigating:
+
+**Usage Frequency & Duration:**
+- How often does each group ride?
+- What is the average ride length for members vs. casual riders?
+- Do patterns vary by day of week?
+
+**Temporal Patterns:**
+- When do members ride? (time of day, day of week, season)
+- When do casual riders ride?
+- Are there identifiable peak usage times for each group?
+
+**Behavioral Insights:**
+- What types of trips characterize each group?
+- Are members using bikes for commuting while casual riders use them for leisure?
+- Do patterns suggest different value propositions?
+
+---
+
+## Secondary Research Questions (Context)
+
+While our primary focus is the above question, these related questions shape the overall strategy:
+
+### 3. Why would casual riders buy Cyclistic annual memberships?
+
+- What unmet needs or desires does membership fulfill?
+- How would membership change the value equation for casual riders?
+- What barriers currently prevent conversion?
+
+### 4. How can Cyclistic use digital media to influence casual riders to become members?
+
+- Which digital channels reach casual riders most effectively?
+- What messaging resonates with this audience?
+- How should marketing budget be allocated across channels?
+
+---
+
+## Key Analytical Tasks
+
+To fully address the primary question, we will:
+
+✓ **Prepare** 12 months of historical Cyclistic trip data  
+✓ **Clean** data to ensure accuracy and consistency  
+✓ **Analyze** ride patterns using descriptive statistics and pivot tables  
+✓ **Visualize** findings with compelling charts and graphs  
+✓ **Interpret** results in business context  
+✓ **Recommend** three actionable strategies based on findings
+
+---
+
+## Expected Deliverables from This Analysis
+
+1. Clear business task statement *(stakeholder alignment)*
+2. Data source documentation *(transparency & methodology)*
+3. Data cleaning documentation *(process credibility)*
+4. Analysis summary with key metrics
+5. Professional visualizations of findings
+6. Top 3 recommendations for marketing strategy conversion
+
+**Timeline:** Complete within one week  
+**Audience:** Cyclistic Executive Team (requires detail and polish)
