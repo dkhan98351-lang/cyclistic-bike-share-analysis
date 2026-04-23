@@ -1,0 +1,478 @@
+# Data Limitations & Constraints
+## Cyclistic Bike-Share Case Study - Prepare Phase
+
+---
+
+## Overview
+
+This document outlines known limitations and constraints of the Cyclistic dataset and analysis. Understanding these limitations ensures appropriate interpretation of findings and manages stakeholder expectations.
+
+---
+
+## Critical Limitations
+
+### 1. NO PERSONAL IDENTIFIABLE INFORMATION (PII)
+
+**What This Means:**
+- No customer names, email addresses, or contact information
+- No credit card or payment method details
+- No residential addresses or personal locations
+- No age, gender, income, or demographic data
+
+**Why It Matters:**
+- Cannot identify repeat casual riders (cannot link multiple rides to same person)
+- Cannot determine if casual riders live in service area or outside
+- Cannot create individual customer profiles
+- Cannot track how individual casual riders change behavior over time
+
+**Analysis Impact:**
+- All comparisons are aggregate (segment-level, not individual-level)
+- Analysis shows what casual riders as a GROUP do, not what any particular person does
+- Cannot do individual customer targeting or personalization analysis
+- Recommendations must be segment-based, not individual-based
+
+**Workaround:**
+- Use cookies/tracking if you were to implement digital marketing campaigns
+- Recommend future customer surveys to gather demographic context
+- Propose data partnership with payment processors (with proper privacy protections)
+
+**Severity:** MEDIUM (By design; unavoidable)
+
+---
+
+### 2. NO INDIVIDUAL CUSTOMER TRACKING
+
+**What This Means:**
+- Cannot connect individual rides to specific people
+- Cannot determine if someone took multiple trips (due to PII removal)
+- Cannot create repeat customer vs. first-time customer segmentation
+- Cannot determine loyalty metrics
+
+**Why It Matters:**
+- Analysis is cross-sectional (snapshot in time), not longitudinal (tracking individuals)
+- Cannot measure customer lifetime value
+- Cannot identify the most engaged casual riders
+- Cannot understand conversion patterns at individual level
+
+**Analysis Impact:**
+- Findings apply to average member and average casual rider
+- Cannot identify micro-segments or personas
+- Results are descriptive of group behavior, not predictive of individual behavior
+- Recommendations should focus on segment-wide interventions
+
+**Workaround:**
+- Future analysis with customer consent and proper privacy protections
+- Use cookie-based tracking for digital marketing campaigns
+- Implement loyalty programs that track opted-in customers
+
+**Severity:** MEDIUM (Expected for privacy-protected data)
+
+---
+
+### 3. HISTORICAL DATA ONLY (NOT PREDICTIVE)
+
+**What This Means:**
+- Data shows what happened in the past, not what will happen in the future
+- Seasonal patterns may change
+- Market conditions may shift
+- COVID-19 or other disruptions may affect patterns
+
+**Why It Matters:**
+- Cannot guarantee findings will predict future behavior
+- External factors not captured in data (weather, events, marketing, economy)
+- Behavioral shifts due to technology changes (e.g., app improvements)
+- Competitive pressures or new competitors
+
+**Analysis Impact:**
+- Recommendations are based on "if patterns hold" assumption
+- Should frame findings as "based on historical trends"
+- Acknowledge that actual campaign results may differ
+- Propose monitoring and A/B testing to validate hypotheses
+
+**Workaround:**
+- Implement campaign pilots to test hypotheses
+- Monitor real-time metrics against historical patterns
+- Establish control groups for A/B testing
+- Build feedback loops to update recommendations over time
+
+**Severity:** MEDIUM-HIGH (Expected with all historical analysis)
+
+---
+
+### 4. LIMITED GEOGRAPHIC SCOPE
+
+**What This Means:**
+- Data covers ONLY Chicago service area
+- Cannot generalize findings to other cities
+- Cannot analyze regional variations
+- Cannot compare to other bike-share systems
+
+**Why It Matters:**
+- Chicago has specific characteristics (weather, demographics, geography)
+- Other cities may have different member/casual rider ratios
+- Urban layouts affect commuting vs. leisure patterns
+- Regional culture affects bike-share usage
+
+**Analysis Impact:**
+- Findings apply specifically to Chicago
+- Cannot make recommendations for expansion to other cities
+- Cannot compare Cyclistic performance to competitors in other markets
+- Must note geographic limitations in presentation
+
+**Workaround:**
+- Recommend separate analysis for each city if expanding
+- Document Chicago-specific factors that might affect patterns
+- Propose market research before applying insights to new markets
+
+**Severity:** LOW (Expected; clearly defined service area)
+
+---
+
+### 5. NO DEMOGRAPHIC CONTEXT
+
+**What This Means:**
+- Cannot determine casual riders' age, gender, income, education, or occupation
+- Cannot determine if riders are residents or tourists
+- Cannot determine household size or family status
+- Cannot access neighborhood-level demographics
+
+**Why It Matters:**
+- Cannot explain WHY different segments behave differently
+- Cannot tailor messaging to specific demographic groups
+- Cannot do demographic-based market segmentation
+- Cannot determine if demographic shifts affect usage patterns
+
+**Analysis Impact:**
+- Analysis is behavioral only, not demographic
+- Cannot make recommendations like "target women ages 25-35"
+- Must rely on usage behavior to infer segment characteristics
+- Findings may reflect age/income/gender patterns but cannot confirm
+
+**Workaround:**
+- Conduct customer surveys to gather demographic data (with consent)
+- Use behavioral patterns as proxy for demographics (e.g., weekday commuters likely office workers)
+- Partner with third-party demographic data providers
+- Recommend demographic research as follow-up study
+
+**Severity:** MEDIUM (Expected with privacy-protected operational data)
+
+---
+
+## Data Quality Limitations
+
+### 6. INCOMPLETE STATION DATA FOR DOCKLESS RETURNS
+
+**What This Means:**
+- Some bikes may be returned outside official docking stations (dockless)
+- These rides may have missing or null end_station_name and end_station_id
+- Approximately 3-5% of rides may have incomplete station data
+
+**Why It Matters:**
+- Cannot fully analyze trip geography for all rides
+- Station-to-station analysis will be incomplete
+- Cannot determine all trip end locations
+
+**Analysis Impact:**
+- Geographic analysis will undercount trips
+- May need to exclude records with missing station data
+- Should report percentage of records excluded
+- Results represent docked trips, not all trips
+
+**Workaround:**
+- Use coordinates (end_lat, end_lng) if available for dockless returns
+- Document percentage of dockless returns separately
+- Sensitivity analysis: compare results with/without dockless returns
+
+**Severity:** LOW-MEDIUM (Manageable; expected for modern bike-share)
+
+---
+
+### 7. MISSING VALUES IN OPTIONAL FIELDS
+
+**What This Means:**
+- Some records may have null/missing values in non-critical fields
+- Geographic coordinates may occasionally be missing
+- Station names may not match all variations
+
+**Why It Matters:**
+- May reduce sample size for certain analyses
+- Geographic analysis may lose some data points
+- Pattern analysis may be incomplete
+
+**Analysis Impact:**
+- Will need data cleaning procedures to handle missing values
+- Should calculate and report percentage of excluded records
+- May need to use different sample sizes for different analyses
+- Should perform sensitivity analysis on key findings
+
+**Workaround:**
+- Document all missing value handling decisions
+- Use multiple imputation if appropriate
+- Perform analysis both with and without questionable records
+- Report results clearly with sample sizes
+
+**Severity:** LOW (Standard data cleaning challenge)
+
+---
+
+### 8. TIME ZONE & DAYLIGHT SAVING TIME
+
+**What This Means:**
+- All timestamps are in Chicago Central Time
+- Data spans multiple daylight saving time transitions
+- May include one hour repeated (fall back) or one hour skipped (spring forward)
+
+**Why It Matters:**
+- Time calculations around DST transitions may be off by one hour
+- Analysis of "hour of day" patterns may have anomalies on DST days
+- Ride duration calculations unaffected (if both start and end on same clock basis)
+
+**Analysis Impact:**
+- Day-of-week analysis unaffected
+- Seasonal analysis unaffected
+- Hourly patterns may show slight anomalies on 2 days per year
+- Overall impact is minimal but should be noted
+
+**Workaround:**
+- No action needed; impact is negligible
+- Note DST transitions in documentation if detailed hour analysis
+- Report findings acknowledging minor DST-related anomalies
+
+**Severity:** NEGLIGIBLE (Minimal practical impact)
+
+---
+
+## Business Context Limitations
+
+### 9. CANNOT DETERMINE CAUSATION
+
+**What This Means:**
+- Analysis identifies correlations, not causation
+- Example: Cannot prove that "commuters use memberships" – can only show that members use bikes at commute times
+- Cannot determine whether behavior causes membership or vice versa
+
+**Why It Matters:**
+- Recommendations must be framed carefully
+- Cannot make definitive causal claims
+- Marketing strategies are based on observed patterns, not proven cause-effect
+
+**Analysis Impact:**
+- Recommendations should be framed as "based on observed differences"
+- Should recommend A/B testing to validate that messaging drives conversion
+- Should acknowledge that other factors may be driving observed patterns
+- Follow-up analysis should test causal hypotheses
+
+**Workaround:**
+- Recommend experimental design (A/B testing) for marketing campaigns
+- Use causal language carefully ("associated with" not "caused")
+- Propose surveys to understand customer motivations
+- Suggest tracking attribution metrics during campaigns
+
+**Severity:** MEDIUM (Standard limitation of observational data)
+
+---
+
+### 10. NO EXTERNAL CONTEXT DATA
+
+**What This Means:**
+- No weather data (temperature, precipitation, snow)
+- No special events (holidays, concerts, conferences)
+- No marketing campaign data (ads running, promotions active)
+- No competitive activity (competitor promotions or new bike-share systems)
+- No traffic or congestion data
+- No public transportation schedule changes
+
+**Why It Matters:**
+- Cannot control for external factors affecting usage
+- Weather clearly affects bike-share usage (rain, snow reduce trips)
+- Holidays/events affect patterns
+- Marketing campaigns affect member conversion
+- Transit strikes or service changes affect demand
+
+**Analysis Impact:**
+- Observed patterns may partly reflect external factors, not just member/casual differences
+- Cannot determine how much of difference is due to segment vs. external factors
+- Recommendations should acknowledge other factors affecting results
+
+**Workaround:**
+- Document major events during analysis period (known holidays, emergencies)
+- Note weather patterns qualitatively
+- Perform sensitivity analysis under different scenarios
+- Recommend tracking external factors in future analysis
+
+**Severity:** MEDIUM (Expected; external data is separate stream)
+
+---
+
+### 11. NO REVENUE OR PRICING DATA
+
+**What This Means:**
+- Cannot see how much members pay vs. casual riders
+- Cannot determine actual membership pricing during analysis period
+- Cannot calculate revenue per ride
+- Cannot analyze willingness to pay
+
+**Why It Matters:**
+- Cannot definitively prove members are "more profitable"
+- Cannot optimize pricing based on actual revenue
+- Cannot calculate ROI of marketing campaigns
+- Cannot determine price elasticity
+
+**Analysis Impact:**
+- Profitability is taken as given from finance team
+- Analysis assumes revenue model and cannot validate it
+- Recommendations should defer revenue decisions to finance team
+- Cannot calculate campaign ROI directly
+
+**Workaround:**
+- Partner with finance team for revenue analysis
+- Use finance team's profitability conclusions as given
+- Recommend future revenue optimization analysis
+- Propose pricing experiment to test elasticity
+
+**Severity:** MEDIUM (Acceptable; finance team already validated profitability)
+
+---
+
+## Analysis Scope Limitations
+
+### 12. SNAPSHOT VS. TREND ANALYSIS
+
+**What This Means:**
+- 12-month data provides one snapshot in time, not long-term trends
+- Cannot determine if observed patterns are stable over years
+- Cannot distinguish temporary changes from permanent shifts
+
+**Why It Matters:**
+- Recommendations based on one year may not hold if patterns change
+- Cannot identify long-term trend directions
+- Cannot determine how mature the bike-share system is
+
+**Analysis Impact:**
+- Findings are valid for the 12-month period analyzed
+- Cannot guarantee findings hold for prior or future years
+- Recommendations should be monitored and adjusted as needed
+- Should propose annual analysis to track pattern changes
+
+**Workaround:**
+- Include year-over-year comparison if data available
+- Propose ongoing monitoring and analysis
+- Document time period clearly in all findings
+- Recommend sensitivity analysis for different seasonal patterns
+
+**Severity:** LOW-MEDIUM (Expected; useful for annual planning)
+
+---
+
+### 13. UNABLE TO ANALYZE CONVERTING CUSTOMERS
+
+**What This Means:**
+- Cannot identify which casual riders converted to members
+- Cannot see what factors led to conversion
+- Cannot build conversion prediction model
+- Cannot track post-conversion behavior
+
+**Why It Matters:**
+- Cannot directly test which marketing messages work
+- Cannot identify what content converts casual to member
+- Cannot predict which casual riders are most likely to convert
+- Cannot track behavior change after conversion
+
+**Analysis Impact:**
+- Must infer conversion factors indirectly from member behavior
+- Recommendations must be validated with actual conversion campaigns
+- Cannot provide guaranteed conversion rate projections
+- Should recommend tracking conversion metrics during campaigns
+
+**Workaround:**
+- Implement tracking during marketing campaign execution
+- Use multi-touch attribution for campaign evaluation
+- A/B test different marketing messages
+- Survey converted members about decision factors
+- Build conversion model based on campaign results
+
+**Severity:** MEDIUM-HIGH (Limits prediction capability)
+
+---
+
+## Documentation of Limitations
+
+### How to Communicate Limitations
+
+**To Lily Moreno:**
+> "Our analysis identifies distinct usage patterns between members and casual riders based on 12 months of historical data. These patterns should inform marketing strategy, but actual conversion results may vary based on market conditions and campaign execution. We recommend validating findings through A/B testing."
+
+**To Executive Team:**
+> "This analysis uses historical trip data to identify behavioral differences. Findings are directional and evidence-based but should be validated through pilot campaigns before full rollout. We'll monitor actual results and adjust recommendations accordingly."
+
+**In Presentation:**
+- Clearly state time period of analysis
+- Note geographic scope (Chicago only)
+- Acknowledge that findings are based on historical patterns
+- Recommend validation through marketing campaigns
+- Propose ongoing monitoring and analysis
+
+---
+
+## Summary of Limitations Impact
+
+| Limitation | Severity | Can Work Around? | Impact on Analysis |
+|---|---|---|---|
+| No PII | Medium | Yes (future surveys) | Segment-level analysis only |
+| No individual tracking | Medium | Yes (tracking implementation) | Cross-sectional, not longitudinal |
+| Historical only | Medium-High | Yes (A/B testing) | Directional insights, validate in field |
+| Geographic scope limited | Low | Acceptable | Findings apply to Chicago |
+| No demographics | Medium | Yes (surveys) | Behavioral analysis only |
+| Dockless returns | Low-Medium | Yes (coordinate data) | Some geographic data loss |
+| Missing values | Low | Yes (cleaning) | Standard data quality issue |
+| No external context | Medium | Yes (document events) | Cannot control for all factors |
+| No revenue data | Medium | Yes (finance partnership) | Accept finance team's conclusions |
+| Cannot analyze conversion | Medium-High | Yes (tracking campaigns) | Must validate recommendations |
+
+---
+
+## Recommendations for Addressing Limitations
+
+### Immediate Actions (Before Analysis)
+1. Document all limitation assumptions in project scope
+2. Establish how limitations will be communicated to stakeholders
+3. Identify which limitations are deal-breakers for specific analyses
+4. Prepare stakeholder messaging about limitations
+
+### Short-Term (During Analysis)
+1. Note data quality issues as encountered
+2. Document exclusion rates and reasons
+3. Perform sensitivity analysis on key findings
+4. Track major external events during analysis period
+
+### Medium-Term (During Marketing Execution)
+1. Implement tracking during marketing campaigns
+2. A/B test recommendations to validate findings
+3. Monitor actual conversion rates vs. predictions
+4. Gather customer survey data on decision factors
+
+### Long-Term (Ongoing)
+1. Conduct annual analysis to monitor pattern changes
+2. Build customer survey program to gather demographics
+3. Implement full attribution tracking for campaigns
+4. Analyze revenue and profitability in detail
+
+---
+
+## Analyst Sign-Off
+
+**Limitations Reviewed:** ✓ Yes
+
+**Analysis Appropriate Despite Limitations:** ✓ Yes
+
+**Stakeholder Communication Plan:** ✓ To be developed
+
+**Recommendation:** Proceed with analysis while carefully managing stakeholder expectations about findings applicability and validation needed before full implementation.
+
+---
+
+**Next Steps:**
+- Proceed to Data Cleaning (Process Phase)
+- Document all data transformation decisions
+- Track and report data quality metrics
+- Prepare limitation discussion for final presentation

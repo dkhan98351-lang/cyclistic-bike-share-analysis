@@ -1,0 +1,100 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+16CBE9844D401954,electric_bike,39:20.1,51:37.6,,,Canal St & Jackson Blvd,13138,41.91,-87.67,41.878125,-87.639968,member
+1CB408029E2B5F74,electric_bike,04:22.2,27:41.3,,,Albany Ave & Bloomingdale Ave,15655,41.86,-87.68,41.91402671,-87.70512646,member
+7B6A76CD0F204D08,electric_bike,06:19.7,29:17.5,,,Albany Ave & Bloomingdale Ave,15655,41.86,-87.68,41.91402671,-87.70512646,member
+4F7084E3D75CDE31,electric_bike,28:14.6,35:06.2,,,Canal St & Jackson Blvd,13138,41.87,-87.63,41.878125,-87.639968,member
+E419A570A5A0475B,electric_bike,54:14.5,17:53.3,,,Albany Ave & Bloomingdale Ave,15655,41.89,-87.67,41.91402671,-87.70512646,casual
+79FBC35C1715F60C,electric_bike,14:36.8,18:28.8,,,Canal St & Jackson Blvd,13138,41.89,-87.64,41.878125,-87.639968,member
+715E2B8DFC893AD8,electric_bike,37:16.2,45:43.1,,,Clybourn Ave & Division St,TA1307000115,41.91,-87.67,41.904613,-87.640552,member
+13C9D648D25C5A8B,classic_bike,42:08.9,49:17.9,California Ave & Milwaukee Ave,13084,Albany Ave & Bloomingdale Ave,15655,41.922695,-87.697153,41.91402671,-87.70512646,member
+726F12BE953D7C96,electric_bike,43:34.6,50:40.7,,,Canal St & Jackson Blvd,13138,41.89,-87.63,41.878125,-87.639968,member
+13751EA8835DB24A,electric_bike,12:45.3,10:52.6,,,Albany Ave & Bloomingdale Ave,15655,41.75,-87.72,41.91402671,-87.70512646,member
+C52AAA0868D055EF,electric_bike,47:37.5,04:44.2,,,Canal St & Jackson Blvd,13138,41.89,-87.62,41.878125,-87.639968,member
+89972A6A6C94C5B5,electric_bike,23:08.3,30:33.5,,,Canal St & Jackson Blvd,13138,41.88,-87.66,41.878125,-87.639968,member
+6D22880529F16D12,electric_bike,08:28.7,13:06.1,,,Canal St & Jackson Blvd,13138,41.89,-87.64,41.878125,-87.639968,member
+706F1757DF48A89A,electric_bike,55:50.2,08:53.1,,,Canal St & Jackson Blvd,13138,41.89,-87.62,41.878125,-87.639968,member
+0A76904B12B6BD69,electric_bike,03:30.8,12:25.2,,,Canal St & Jackson Blvd,13138,41.89,-87.67,41.878125,-87.639968,member
+5B1DF1F5A8BB107C,electric_bike,23:19.7,43:03.7,,,Canal St & Jackson Blvd,13138,41.92,-87.64,41.878125,-87.639968,member
+96C73FCE07DD8030,electric_bike,25:21.0,39:03.5,,,Canal St & Jackson Blvd,13138,41.83,-87.65,41.878125,-87.639968,member
+61F33009C70C9521,electric_bike,41:27.6,49:58.4,,,Clybourn Ave & Division St,TA1307000115,41.89,-87.63,41.904613,-87.640552,member
+71D2DED79727B0D0,electric_bike,06:27.1,12:21.2,,,Canal St & Jackson Blvd,13138,41.89,-87.64,41.878125,-87.639968,member
+39638714AD30F6DF,electric_bike,12:18.5,41:48.4,,,Grace St & Cicero Ave,21322,41.94,-87.65,41.94973,-87.74695,member
+1E9DE1CE9F8418A4,electric_bike,05:27.9,37:35.2,,,Albany Ave & Bloomingdale Ave,15655,41.88,-87.63,41.91402671,-87.70512646,member
+764792EF8A9B9BF6,electric_bike,22:32.3,24:23.7,,,Clybourn Ave & Division St,TA1307000115,41.9,-87.64,41.904613,-87.640552,member
+42515C8B66329098,electric_bike,19:48.2,25:29.2,,,Canal St & Jackson Blvd,13138,41.89,-87.65,41.878125,-87.639968,member
+97AF0789A4A71A5F,electric_bike,20:56.6,37:21.0,,,Albany Ave & Bloomingdale Ave,15655,41.91,-87.65,41.91402671,-87.70512646,member
+C1B733C30C72FF91,electric_bike,00:49.7,10:24.9,,,Canal St & Jackson Blvd,13138,41.89,-87.67,41.878125,-87.639968,member
+6514B6D15A634C28,electric_bike,04:17.6,14:48.4,,,Canal St & Jackson Blvd,13138,41.89,-87.67,41.878125,-87.639968,member
+02970F1BAC88046E,electric_bike,07:31.4,12:58.3,,,Clybourn Ave & Division St,TA1307000115,41.9,-87.62,41.904613,-87.640552,member
+4455A142C6981883,electric_bike,22:35.3,23:48.2,,,Canal St & Jackson Blvd,13138,41.88,-87.64,41.878125,-87.639968,member
+6A3A9CFD8C9F348A,electric_bike,23:05.0,29:06.9,Leavitt St/North Ave,PI00003,Albany Ave & Bloomingdale Ave,15655,41.910077,-87.682306,41.91402671,-87.70512646,member
+E7D2E379CFA34A8C,classic_bike,33:21.1,05:11.7,Damen Ave & Clybourn Ave,13271,Albany Ave & Bloomingdale Ave,15655,41.931931,-87.677856,41.91402671,-87.70512646,member
+2821E02D3BB03AED,electric_bike,08:57.9,11:10.6,Public Rack - Evans Ave & 63rd St,749,Cottage Grove Ave & 63rd St,KA1503000054,41.780506,-87.607519,41.78053094,-87.6059702,member
+0B4ACA9D8ABF401A,electric_bike,04:55.6,14:08.0,Wabash Ave & Grand Ave,TA1307000117,Canal St & Jackson Blvd,13138,41.891466,-87.626761,41.878125,-87.639968,member
+B1C039B6B7F67DAD,electric_bike,22:35.4,25:52.8,Desplaines St & Randolph St,15535,Canal St & Jackson Blvd,13138,41.883703,-87.644238,41.878125,-87.639968,casual
+4DCE23ABA74BA5EF,electric_bike,37:21.5,47:51.0,Wabash Ave & Grand Ave,TA1307000117,Canal St & Jackson Blvd,13138,41.891466,-87.626761,41.878125,-87.639968,casual
+932D5685F4893226,electric_bike,51:16.1,52:04.4,Long Ave & Diversey Ave,24326,Public Rack - Lockwood Ave & Diversey Ave,964,41.93104,-87.76124,41.931541,-87.75904,member
+5B2405B88EA74E46,electric_bike,19:21.1,26:56.0,,,Albany Ave & Bloomingdale Ave,15655,41.91,-87.68,41.91402671,-87.70512646,casual
+EBDE42C06EE440E5,electric_bike,49:16.9,55:23.5,,,Clybourn Ave & Division St,TA1307000115,41.9,-87.64,41.904613,-87.640552,casual
+D207AD0271FC06C8,electric_bike,08:56.8,16:14.4,,,Albany Ave & Bloomingdale Ave,15655,41.91,-87.68,41.91402671,-87.70512646,member
+FCB54CB6C1F21973,electric_bike,12:02.8,18:52.7,,,Canal St & Jackson Blvd,13138,41.89,-87.64,41.878125,-87.639968,member
+36BA7375700BF952,electric_bike,44:11.2,48:15.6,,,Clybourn Ave & Division St,TA1307000115,41.91,-87.65,41.904613,-87.640552,member
+EC5ECEB138C3E761,electric_bike,00:43.9,13:46.0,,,Canal St & Jackson Blvd,13138,41.9,-87.67,41.878125,-87.639968,member
+DDD194A85C92D1B6,electric_bike,29:04.9,32:20.3,,,Canal St & Jackson Blvd,13138,41.87,-87.63,41.878125,-87.639968,member
+32389B86887AFD26,electric_bike,58:48.2,20:06.8,,,Albany Ave & Bloomingdale Ave,15655,41.88,-87.64,41.91402671,-87.70512646,member
+E987B24AAA1082A7,classic_bike,13:00.5,19:32.5,California Ave & Milwaukee Ave,13084,Albany Ave & Bloomingdale Ave,15655,41.922695,-87.697153,41.91402671,-87.70512646,member
+46263E8999BC5EB7,electric_bike,59:56.5,11:17.5,,,Canal St & Jackson Blvd,13138,41.87,-87.67,41.878125,-87.639968,member
+D5634F99CE55EB22,electric_bike,53:18.1,58:51.9,,,Canal St & Jackson Blvd,13138,41.89,-87.64,41.878125,-87.639968,member
+53F716AEA427F2E3,electric_bike,45:20.6,57:26.6,,,Albany Ave & Bloomingdale Ave,15655,41.93,-87.71,41.91402671,-87.70512646,member
+7F3BF5AF96E9F776,electric_bike,19:38.0,42:36.2,,,Canal St & Jackson Blvd,13138,41.91,-87.69,41.878125,-87.639968,member
+F5BAE212F51D1BA1,electric_bike,16:46.5,36:43.2,,,Canal St & Jackson Blvd,13138,41.91,-87.69,41.878125,-87.639968,member
+A4B20C6A68338BC1,electric_bike,42:33.9,01:51.6,,,Canal St & Jackson Blvd,13138,41.9,-87.69,41.878125,-87.639968,member
+A9983EED444FE4FA,electric_bike,12:47.0,15:25.8,,,Clybourn Ave & Division St,TA1307000115,41.9,-87.63,41.904613,-87.640552,member
+6935B98632CB423D,electric_bike,31:17.2,35:10.2,,,Clybourn Ave & Division St,TA1307000115,41.9,-87.64,41.904613,-87.640552,member
+9E7C332139998E42,electric_bike,33:32.1,37:40.3,,,Canal St & Jackson Blvd,13138,41.88,-87.65,41.878125,-87.639968,member
+AA24CC01A8126067,electric_bike,56:44.2,01:17.0,,,Canal St & Jackson Blvd,13138,41.89,-87.64,41.878125,-87.639968,member
+06C90F2EB079503D,electric_bike,25:41.2,29:46.0,,,Clybourn Ave & Division St,TA1307000115,41.91,-87.64,41.904613,-87.640552,member
+41307BCEAD907332,electric_bike,24:24.5,33:49.6,,,Canal St & Jackson Blvd,13138,41.89,-87.63,41.878125,-87.639968,member
+FBEA2F9D67299458,electric_bike,09:30.9,16:39.4,,,Canal St & Jackson Blvd,13138,41.86,-87.63,41.878125,-87.639968,member
+0A0065EF6B1CCB13,electric_bike,05:45.0,13:35.8,,,Albany Ave & Bloomingdale Ave,15655,41.91,-87.68,41.91402671,-87.70512646,casual
+9EA1100CEC29CB92,electric_bike,24:59.1,25:32.2,,,Canal St & Jackson Blvd,13138,41.88,-87.64,41.878125,-87.639968,member
+DD1B7EEB9D0E2FB1,electric_bike,10:39.0,52:14.3,,,Canal St & Jackson Blvd,13138,41.95,-87.69,41.878125,-87.639968,member
+2279A67764E6544C,electric_bike,06:46.8,09:24.5,,,Cottage Grove Ave & 63rd St,KA1503000054,41.79,-87.61,41.78053094,-87.6059702,member
+97152632A5E054FD,classic_bike,54:36.8,00:56.4,California Ave & Milwaukee Ave,13084,Albany Ave & Bloomingdale Ave,15655,41.922695,-87.697153,41.91402671,-87.70512646,member
+A3F03CD63DD6DFE7,electric_bike,07:50.7,13:21.7,California Ave & Milwaukee Ave,13084,Albany Ave & Bloomingdale Ave,15655,41.922695,-87.697153,41.91402671,-87.70512646,member
+0A6EDC4AD0C225E0,classic_bike,51:35.6,57:08.8,California Ave & Milwaukee Ave,13084,Albany Ave & Bloomingdale Ave,15655,41.922695,-87.697153,41.91402671,-87.70512646,member
+18DAC9E20678BFC1,classic_bike,27:14.1,35:33.0,California Ave & Milwaukee Ave,13084,Albany Ave & Bloomingdale Ave,15655,41.922695,-87.697153,41.91402671,-87.70512646,member
+7C61F35D566D2DD5,electric_bike,39:45.0,46:05.2,,,Grace St & Cicero Ave,21322,41.94,-87.73,41.94973,-87.74695,member
+4BA5499BC0FCBC7A,electric_bike,37:39.2,39:36.4,,,Grace St & Cicero Ave,21322,41.95,-87.75,41.94973,-87.74695,member
+E60B187DDAB79DEF,electric_bike,22:23.7,26:20.0,,,Canal St & Jackson Blvd,13138,41.89,-87.64,41.878125,-87.639968,member
+41047BEDBA5762F1,electric_bike,49:49.8,52:31.2,,,Grace St & Cicero Ave,21322,41.96,-87.74,41.94973,-87.74695,member
+8D3D6836C8352616,electric_bike,34:28.5,42:43.8,,,Canal St & Jackson Blvd,13138,41.89,-87.66,41.878125,-87.639968,member
+916A3EF9A6B2E482,electric_bike,35:11.6,39:59.0,,,Albany Ave & Bloomingdale Ave,15655,41.92,-87.7,41.91402671,-87.70512646,member
+5146422625E9907E,electric_bike,04:20.9,07:23.8,,,Albany Ave & Bloomingdale Ave,15655,41.91,-87.7,41.91402671,-87.70512646,member
+C2A22E06F05705AD,electric_bike,17:33.3,22:12.3,,,Canal St & Jackson Blvd,13138,41.88,-87.65,41.878125,-87.639968,member
+6856B1C3EAB938ED,electric_bike,15:14.6,47:54.0,,,Albany Ave & Bloomingdale Ave,15655,41.88,-87.63,41.91402671,-87.70512646,member
+44E0F01753057D91,electric_bike,25:49.3,40:53.0,,,Albany Ave & Bloomingdale Ave,15655,41.94,-87.69,41.91402671,-87.70512646,member
+2F3D943DF41C28F6,classic_bike,13:19.4,17:52.4,Rush St & Cedar St,KA1504000133,Clybourn Ave & Division St,TA1307000115,41.9023087,-87.62769053,41.904613,-87.640552,casual
+D212DC2CEFD794F7,classic_bike,15:53.5,23:24.1,Rush St & Cedar St,KA1504000133,Clybourn Ave & Division St,TA1307000115,41.9023087,-87.62769053,41.904613,-87.640552,casual
+906C472B0C9A9F21,electric_bike,54:37.3,58:11.1,Rush St & Cedar St,KA1504000133,Clybourn Ave & Division St,TA1307000115,41.90237927,-87.62783003,41.904613,-87.640552,member
+0E32EE1D1DBA9718,electric_bike,09:31.5,23:32.4,Wells St & Walton St,TA1306000011,Canal St & Jackson Blvd,13138,41.89993001,-87.63443007,41.878125,-87.639968,member
+21AFCDDD9104644B,classic_bike,04:19.8,18:45.5,Wells St & Walton St,TA1306000011,Canal St & Jackson Blvd,13138,41.89993001,-87.63443007,41.878125,-87.639968,member
+6BF26CE506E6E445,electric_bike,11:17.6,24:06.6,Wells St & Walton St,TA1306000011,Canal St & Jackson Blvd,13138,41.89993001,-87.63443007,41.878125,-87.639968,member
+B11DE6B813F27DE7,classic_bike,08:06.5,23:25.3,Wells St & Walton St,TA1306000011,Canal St & Jackson Blvd,13138,41.89993001,-87.63443007,41.878125,-87.639968,member
+8F99860DF01D7EAA,electric_bike,06:21.1,19:56.1,Wells St & Walton St,TA1306000011,Canal St & Jackson Blvd,13138,41.89993001,-87.63443007,41.878125,-87.639968,member
+D1F7329C38BAB30A,classic_bike,16:12.9,19:58.7,Wabash Ave & Cermak Rd,TA1305000001,Archer & Wentworth,25001,41.852619,-87.626488,41.8546868,-87.6308531,member
+79428456C1ED2AE5,classic_bike,20:04.9,36:45.9,Honore St & Division St,TA1305000034,Albany Ave & Bloomingdale Ave,15655,41.903119,-87.673935,41.91402671,-87.70512646,member
+331300BCD2FDBA81,classic_bike,48:02.3,02:49.7,Honore St & Division St,TA1305000034,Albany Ave & Bloomingdale Ave,15655,41.903119,-87.673935,41.91402671,-87.70512646,member
+ED66BB079800CAB3,electric_bike,39:57.4,43:06.4,Wells St & Walton St,TA1306000011,Clybourn Ave & Division St,TA1307000115,41.89993001,-87.63443007,41.904613,-87.640552,member
+A013C02373FF23EB,classic_bike,00:19.4,36:36.2,California Ave & Montrose Ave,15622,Clybourn Ave & Division St,TA1307000115,41.961068,-87.695439,41.904613,-87.640552,member
+F440ACB9807EFE71,electric_bike,01:56.6,14:42.6,Honore St & Division St,TA1305000034,Albany Ave & Bloomingdale Ave,15655,41.903119,-87.673935,41.91402671,-87.70512646,member
+9D84D0ACA1C9FE4F,electric_bike,55:40.5,57:38.9,Desplaines St & Randolph St,15535,Desplaines St & Kinzie St,TA1306000003,41.883703,-87.644238,41.88871604,-87.64444785,member
+8858A748D85EB553,classic_bike,52:35.2,06:59.4,Wabash Ave & Grand Ave,TA1307000117,Desplaines St & Kinzie St,TA1306000003,41.891466,-87.626761,41.88871604,-87.64444785,casual
+F0E1A14667C0AEC8,classic_bike,38:12.9,52:29.9,Wabash Ave & Grand Ave,TA1307000117,Desplaines St & Kinzie St,TA1306000003,41.891466,-87.626761,41.88871604,-87.64444785,casual
+634A15EAABD30456,classic_bike,15:29.4,18:46.5,Desplaines St & Randolph St,15535,Desplaines St & Kinzie St,TA1306000003,41.883703,-87.644238,41.88871604,-87.64444785,casual
+D7A7FE1A8AB65BC5,electric_bike,00:01.7,05:07.9,Wabash Ave & Grand Ave,TA1307000117,Desplaines St & Kinzie St,TA1306000003,41.891466,-87.626761,41.88871604,-87.64444785,casual
+C300C2FA0A28B8DC,electric_bike,19:38.3,27:42.5,Wabash Ave & Grand Ave,TA1307000117,Desplaines St & Kinzie St,TA1306000003,41.891466,-87.626761,41.88871604,-87.64444785,casual
+5670AFB500A299F8,classic_bike,52:57.7,02:04.8,Wabash Ave & Grand Ave,TA1307000117,Orleans St & Chestnut St (NEXT Apts),620,41.891466,-87.626761,41.898203,-87.637536,casual
+6126A8C2128FB1BD,electric_bike,00:47.5,02:55.4,Desplaines St & Randolph St,15535,Desplaines St & Kinzie St,TA1306000003,41.88365352,-87.64435303,41.88871604,-87.64444785,casual
+0C97D725B9C6D8DE,classic_bike,52:22.6,07:03.3,Wabash Ave & Grand Ave,TA1307000117,Desplaines St & Kinzie St,TA1306000003,41.891466,-87.626761,41.88871604,-87.64444785,casual
+AA3104A3B26E9AFF,classic_bike,57:51.1,01:11.6,Desplaines St & Randolph St,15535,Desplaines St & Kinzie St,TA1306000003,41.883703,-87.644238,41.88871604,-87.64444785,member

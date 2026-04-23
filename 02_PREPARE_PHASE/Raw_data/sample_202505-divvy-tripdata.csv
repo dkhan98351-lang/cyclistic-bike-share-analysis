@@ -1,0 +1,100 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+BADF67E2C5058F19,classic_bike,22:39.5,11:19.2,DuSable Lake Shore Dr & North Blvd,LF-005,Winthrop Ave & Lawrence Ave,TA1308000021,41.911722,-87.626804,41.968812,-87.657659,member
+0210AE485D59C8C5,electric_bike,02:09.3,12:07.5,Damen Ave & Grand Ave,TA1308000006,Desplaines St & Jackson Blvd,15539,41.89239445,-87.67688513,41.8781189,-87.6439476,member
+5E68FE5B9283E4C4,classic_bike,32:33.1,39:07.3,LaSalle St & Illinois St,13430,Clark St & Elm St,TA1307000039,41.890762,-87.631697,41.9033216,-87.6329993,member
+13D2DCD6FB872858,classic_bike,12:16.6,17:25.1,Milwaukee Ave & Rockwell St,13242,Damen Ave & Cortland St,13133,41.92033,-87.69309,41.915983,-87.677335,member
+F04DF9EE163351DD,classic_bike,13:36.8,17:40.5,Halsted St & Roosevelt Rd,TA1305000017,Clinton St & Roosevelt Rd,WL-008,41.867324,-87.648625,41.86711778,-87.64108796,member
+D68970C8A0234C01,electric_bike,17:12.2,33:43.5,LaSalle St & Illinois St,13430,Racine Ave & Belmont Ave,13230,41.890762,-87.631697,41.939743,-87.658865,member
+A9BD55C04D298E4E,classic_bike,41:32.6,53:00.4,Field Blvd & South Water St,15534,Clark St & Elm St,TA1307000039,41.88634906,-87.61751655,41.9033216,-87.6329993,member
+B9F6C711D340B656,electric_bike,03:48.5,07:09.4,Halsted St & Roosevelt Rd,TA1305000017,Clinton St & Roosevelt Rd,WL-008,41.867324,-87.648625,41.86711778,-87.64108796,casual
+EA9D207866ADA9B6,electric_bike,20:41.9,25:40.9,LaSalle St & Illinois St,13430,Clark St & Elm St,TA1307000039,41.890762,-87.631697,41.9033216,-87.6329993,casual
+A3CEF22A4196F6CC,electric_bike,40:46.8,47:54.4,DuSable Lake Shore Dr & North Blvd,LF-005,,,41.911722,-87.626804,41.9,-87.62,member
+894C3FB67A15E3DF,electric_bike,37:01.9,43:36.1,Public Rack - Rockwell & Division,1052,California Ave & Milwaukee Ave,13084,41.9029547,-87.69245482,41.922695,-87.697153,member
+1927FA671F5C274F,electric_bike,38:57.0,44:50.7,Emerald Ave & 31st St,TA1309000055,,,41.838198,-87.645143,41.83,-87.64,member
+E0CEE9C0B776578B,classic_bike,51:06.2,04:02.7,Racine Ave & Wrightwood Ave,TA1309000059,Racine Ave & Fullerton Ave,TA1306000026,41.928887,-87.658971,41.925566,-87.658416,member
+CC4B69BE0243F3D5,classic_bike,11:14.7,23:29.9,Racine Ave & Wrightwood Ave,TA1309000059,Clark St & Armitage Ave,13146,41.928887,-87.658971,41.918306,-87.636282,casual
+59D2D8F08A95BF7A,classic_bike,17:52.8,34:14.5,Ravenswood Ave & Berteau Ave,TA1309000018,Wilton Ave & Belmont Ave,TA1307000134,41.957921,-87.673567,41.94023192,-87.65294373,member
+6B8349919C92EC4C,electric_bike,23:42.0,36:36.4,Field Blvd & South Water St,15534,Kingsbury St & Kinzie St,KA1503000043,41.88634906,-87.61751655,41.88917683,-87.63850577,member
+EE9DED2898B63840,classic_bike,20:58.6,29:55.1,Aberdeen St & Monroe St,13156,Kingsbury St & Kinzie St,KA1503000043,41.880419,-87.655519,41.88917683,-87.63850577,member
+22094500B4E2687B,electric_bike,21:11.6,25:12.1,Leavitt St & Archer Ave,KA1503000068,Wood St & 35th St,KA1503000066,41.82879202,-87.68060446,41.83010465,-87.67029831,casual
+8DF32D97D6A871BD,electric_bike,30:07.1,44:40.4,Troy St & Grace St,430,Wilton Ave & Belmont Ave,TA1307000134,41.95023847,-87.7062819,41.94023192,-87.65294373,casual
+CF0AE047C253CC16,classic_bike,14:55.8,25:17.0,LaSalle St & Illinois St,13430,Kingsbury St & Kinzie St,KA1503000043,41.890762,-87.631697,41.88917683,-87.63850577,casual
+60E26EBE2CCB17EC,electric_bike,04:39.8,14:47.5,Aberdeen St & Monroe St,13156,Kingsbury St & Kinzie St,KA1503000043,41.88036132,-87.65563262,41.88917683,-87.63850577,casual
+27AD4E5A05E239B5,classic_bike,01:43.3,12:23.1,Wells St & Polk St,SL-011,Michigan Ave & Jackson Blvd,TA1309000002,41.87273154,-87.63351649,41.8777679,-87.624164,member
+E20B2109B761AA39,electric_bike,45:48.8,48:13.2,Public Rack - Leamington & Elston,1204,Elston Ave & Carmen Ave,24472,41.977894,-87.756315,41.97354,-87.74955,member
+C0DCE4056B3DBE6B,electric_bike,14:02.8,18:08.7,Halsted St & Roosevelt Rd,TA1305000017,Halsted St & Maxwell St,TA1309000001,41.867324,-87.648625,41.864883,-87.647071,member
+0778E5D4D3DD9DF0,classic_bike,38:14.9,48:02.2,DuSable Lake Shore Dr & North Blvd,LF-005,Wabash Ave & Grand Ave,TA1307000117,41.911722,-87.626804,41.891466,-87.626761,member
+24F2C14A4B046AFB,classic_bike,07:44.6,15:20.3,Wells St & Polk St,SL-011,Wells St & Randolph St,TA1305000030,41.87273154,-87.63351649,41.884295,-87.633963,member
+232BE0E502766706,electric_bike,33:34.3,43:28.2,Racine Ave & Wrightwood Ave,TA1309000059,Addison Red Line,Corral 7,41.92894912,-87.65899372,41.9472,-87.654,member
+6AFF34BF9E0EC407,electric_bike,21:45.6,33:49.4,Central St Metra,E006,Benson Ave & Church St,596,42.063598,-87.69873,42.048214,-87.683485,casual
+F18C8E4C608AD5CA,classic_bike,29:47.3,50:15.5,DuSable Lake Shore Dr & North Blvd,LF-005,Clinton St & Madison St,TA1305000032,41.911722,-87.626804,41.88275197,-87.64119029,member
+3160AB9AA7C97EC1,classic_bike,40:05.5,19:31.2,LaSalle St & Illinois St,13430,Streeter Dr & Grand Ave,13022,41.890762,-87.631697,41.892278,-87.612043,casual
+A82906FCC21EE89C,classic_bike,40:52.2,55:05.1,LaSalle St & Illinois St,13430,Halsted St & Clybourn Ave,331,41.890762,-87.631697,41.909668,-87.648128,member
+2FAB633B1456254C,electric_bike,46:35.0,07:06.6,Milwaukee Ave & Rockwell St,13242,Blue Island Ave & 18th St,13135,41.92033,-87.69309,41.857556,-87.661535,member
+CB3FDB3FACA07F99,electric_bike,45:34.3,59:17.1,Albany Ave & Belmont Ave,434,Ashland Ave & Division St,13061,41.939638,-87.705263,41.90301,-87.66877,member
+DF2B7075086C7CAB,classic_bike,56:55.7,02:27.5,LaSalle St & Illinois St,13430,Clinton St & Lake St,13021,41.890762,-87.631697,41.885637,-87.641823,member
+5130CA461CFDA518,classic_bike,55:40.4,06:15.5,LaSalle St & Illinois St,13430,Clybourn Ave & Division St,TA1307000115,41.890762,-87.631697,41.904613,-87.640552,member
+FADA301A492C4ACC,classic_bike,46:05.3,58:45.8,DuSable Lake Shore Dr & North Blvd,LF-005,Michigan Ave & Washington St,13001,41.911722,-87.626804,41.88398406,-87.62468398,casual
+4DC6A053E732F95F,electric_bike,28:00.7,40:19.3,Racine Ave & Wrightwood Ave,TA1309000059,Leavitt St & Armitage Ave,TA1309000029,41.928887,-87.658971,41.917805,-87.682437,casual
+9D8D658A04C5A081,classic_bike,38:32.5,58:08.6,DuSable Lake Shore Dr & North Blvd,LF-005,Sedgwick St & Huron St,TA1307000062,41.911722,-87.626804,41.894666,-87.638437,member
+CF643B269E49B905,electric_bike,39:56.3,39:57.7,DuSable Lake Shore Dr & North Blvd,LF-005,DuSable Lake Shore Dr & North Blvd,LF-005,41.911722,-87.626804,41.911722,-87.626804,member
+FB820B20E47F5BA2,classic_bike,35:02.5,24:05.2,DuSable Lake Shore Dr & North Blvd,LF-005,Mies van der Rohe Way & Chestnut St,15529,41.911722,-87.626804,41.89858665,-87.62191523,casual
+AC45CDD198139325,classic_bike,17:27.9,45:51.2,Halsted St & Fulton St,23003,Halsted St & Roscoe St,13127,41.886871,-87.648089,41.94367,-87.64895,member
+891BEAA2F842D2DB,electric_bike,55:30.8,57:58.2,Emerald Ave & 31st St,TA1309000055,Shields Ave & 31st St,KA1503000038,41.838198,-87.645143,41.838464,-87.635406,member
+7A61D0AEC1292007,electric_bike,21:32.0,28:28.9,LaSalle St & Illinois St,13430,Dearborn St & Van Buren St,624,41.890762,-87.631697,41.876268,-87.629155,member
+9E6E5C5C1720EFB3,electric_bike,31:18.1,43:04.3,Halsted St & Fulton St,23003,LaSalle Dr & Huron St,KP1705001026,41.886871,-87.648089,41.894877,-87.632326,member
+F8600EDF5B0E65C3,electric_bike,08:05.3,14:22.4,Halsted St & Polk St,TA1307000121,Loomis St & Lexington St,13332,41.87184,-87.64664,41.87222873,-87.66136386,member
+B1FAE06399711175,classic_bike,46:52.2,49:26.9,Campbell Ave & North Ave,13257,California Ave & North Ave,13258,41.910535,-87.689556,41.910044,-87.697167,member
+D4B89E2E68C7FCE6,classic_bike,24:29.2,33:32.4,Halsted St & Fulton St,23003,Noble St & Milwaukee Ave,13290,41.886871,-87.648089,41.9007,-87.662607,member
+1025115EAA398C22,electric_bike,05:24.0,45:00.9,Narragansett Ave & Wrightwood Ave,21314,Meade Ave & Fullerton Ave,24178,41.92729,-87.78523,41.924751,-87.778272,member
+1CC6247A0CCB71C2,electric_bike,58:12.2,06:50.0,Halsted St & Fulton St,23003,Cityfront Plaza Dr & Pioneer Ct,13427,41.88684559,-87.64826775,41.890573,-87.622072,member
+68AA697BF07BB253,electric_bike,01:11.4,08:49.0,Halsted St & Fulton St,23003,Cityfront Plaza Dr & Pioneer Ct,13427,41.88683856,-87.64811802,41.890573,-87.622072,member
+4B75FFD5C8F20116,electric_bike,46:13.4,49:18.3,Halsted St & Fulton St,23003,N Carpenter St & W Lake St,20251,41.886871,-87.648089,41.885586,-87.6531893,member
+F756228FB2EACCC9,classic_bike,52:28.5,05:32.4,Campbell Ave & North Ave,13257,Damen Ave & Lake St,KA17018054,41.910535,-87.689556,41.8849659,-87.6768354,member
+B446D04F6B712C22,electric_bike,27:50.2,46:03.7,Paulina Ave & North Ave,TA1305000037,Wells St & Evergreen Ave,TA1308000049,41.91033685,-87.67009592,41.906724,-87.63483,member
+7C85EF86DC10ACA5,classic_bike,55:46.2,05:04.1,DuSable Lake Shore Dr & North Blvd,LF-005,Lakeview Ave & Fullerton Pkwy,TA1309000019,41.911722,-87.626804,41.925858,-87.638973,member
+2C877C5BD7F92077,classic_bike,09:43.5,30:12.9,Orleans St & Chestnut St (NEXT Apts),620,Southport Ave & Wrightwood Ave,TA1307000113,41.898203,-87.637536,41.928773,-87.663913,casual
+E0671DE92068BE6F,classic_bike,28:03.1,44:54.3,Racine Ave & Wrightwood Ave,TA1309000059,Southport Ave & Irving Park Rd,TA1309000043,41.928887,-87.658971,41.954177,-87.664358,member
+48649154E1400C6E,classic_bike,13:35.8,27:53.3,Racine Ave & Wrightwood Ave,TA1309000059,Southport Ave & Irving Park Rd,TA1309000043,41.928887,-87.658971,41.954177,-87.664358,member
+CED8F78FCE9ED402,electric_bike,55:46.6,59:28.8,Wells St & Polk St,SL-011,Franklin St & Lake St,TA1307000111,41.87273154,-87.63351649,41.885837,-87.6355,member
+1A25D37E272C3150,electric_bike,03:45.4,07:58.0,Wells St & Polk St,SL-011,Franklin St & Lake St,TA1307000111,41.87273154,-87.63351649,41.885837,-87.6355,member
+B4BD0228994CCEA8,classic_bike,03:36.0,15:11.1,DuSable Lake Shore Dr & North Blvd,LF-005,Sheffield Ave & Webster Ave,TA1309000033,41.911722,-87.626804,41.92154,-87.653818,member
+08EDABF2300C15F6,electric_bike,59:45.1,07:21.5,Aberdeen St & Monroe St,13156,Desplaines St & Kinzie St,TA1306000003,41.880419,-87.655519,41.88871604,-87.64444785,member
+8ACDBFBD14FC948F,electric_bike,12:04.8,20:17.5,Aberdeen St & Monroe St,13156,Desplaines St & Kinzie St,TA1306000003,41.880419,-87.655519,41.88871604,-87.64444785,member
+3FC7B2573481B5FD,classic_bike,59:42.6,16:06.1,Halsted St & Fulton St,23003,Leavitt St & Chicago Ave,18058,41.886871,-87.648089,41.895501,-87.682017,member
+01549364F4B1C136,classic_bike,37:38.3,54:52.9,Halsted St & Polk St,TA1307000121,Indiana Ave & Roosevelt Rd,SL-005,41.87184,-87.64664,41.867888,-87.623041,member
+0977BCD98E17F77D,classic_bike,07:04.9,13:23.9,LaSalle St & Illinois St,13430,McClurg Ct & Ohio St,TA1306000029,41.890762,-87.631697,41.89259212,-87.61728913,member
+E24B88FB0FDEAE92,electric_bike,49:54.7,52:48.9,Aberdeen St & Monroe St,13156,Desplaines St & Jackson Blvd,15539,41.880419,-87.655519,41.8781189,-87.6439476,member
+A811B8CEC67DA2E6,electric_bike,28:00.9,41:19.8,Field Blvd & South Water St,15534,Desplaines St & Jackson Blvd,15539,41.88635111,-87.6174773,41.8781189,-87.6439476,member
+BB780C639CF193CF,classic_bike,37:16.2,40:28.8,Ravenswood Ave & Berteau Ave,TA1309000018,Ashland Ave & Belle Plaine Ave,13249,41.957921,-87.673567,41.956057,-87.668835,member
+98C425DEF779CFB3,classic_bike,44:01.6,11:50.6,Field Blvd & South Water St,15534,Adler Planetarium,13431,41.88634906,-87.61751655,41.866095,-87.607267,casual
+1C009447AAEBBC86,classic_bike,44:21.7,11:19.3,Field Blvd & South Water St,15534,Adler Planetarium,13431,41.88634906,-87.61751655,41.866095,-87.607267,casual
+CE6B5D091F0C1B99,electric_bike,43:58.5,54:58.1,Halsted St & Fulton St,23003,Wood St & Taylor St (Temp),13285,41.886871,-87.648089,41.86926522,-87.67373085,member
+DE2C6427DB98EACB,electric_bike,14:02.3,21:57.6,Millennium Park,13008,McClurg Ct & Ohio St,TA1306000029,41.8810317,-87.62408432,41.89259212,-87.61728913,member
+B16C63E8C795EBE8,classic_bike,08:27.8,15:04.2,Desplaines St & Kinzie St,TA1306000003,Desplaines St & Jackson Blvd,15539,41.88871604,-87.64444785,41.8781189,-87.6439476,casual
+1F9B2A19DEF0F4DA,electric_bike,54:30.5,32:39.9,Pine Grove Ave & Irving Park Rd,13324,Adler Planetarium,13431,41.9543646,-87.6479285,41.866095,-87.607267,casual
+B1308C222D061C19,electric_bike,55:09.5,32:25.5,Pine Grove Ave & Irving Park Rd,13324,Adler Planetarium,13431,41.9543646,-87.6479285,41.866095,-87.607267,casual
+C5C051ADA6B0E6D0,classic_bike,24:16.9,26:51.4,Lake Park Ave & 56th St,TA1309000063,Harper Ave & 59th St,KA1503000070,41.79161,-87.58748,41.78794281,-87.58831517,member
+40767303641D6799,classic_bike,08:20.6,19:08.8,Clark St & Newport St,18001,Ashland Ave & Belle Plaine Ave,13249,41.94454,-87.654678,41.956057,-87.668835,member
+6A8077031926E18F,electric_bike,45:28.0,59:38.8,Rush St & Superior St,15530,Desplaines St & Jackson Blvd,15539,41.89576475,-87.62590803,41.8781189,-87.6439476,member
+EB883BD388E3C2F7,electric_bike,37:35.2,08:19.0,Bernard St & Peterson Ave,24158,Kosciuszko Park,15643,41.9904393,-87.715236,41.93058537,-87.72377736,member
+8789A3D07A37B003,classic_bike,26:21.7,52:29.4,Field Museum,13029,McClurg Ct & Ohio St,TA1306000029,41.865312,-87.617867,41.89259212,-87.61728913,member
+BACDF42A4961BE34,classic_bike,02:53.7,40:56.4,Rush St & Superior St,15530,Indiana Ave & 26th St,TA1307000005,41.89576475,-87.62590803,41.845687,-87.622481,casual
+0CFDD44DBEB0BC71,classic_bike,28:01.1,56:05.7,Western Ave & Monroe St,15667,Stetson Ave & South Water St,TA1308000029,41.88142526,-87.68663168,41.886835,-87.62232,member
+4F2DBA52D98374C7,electric_bike,35:48.2,40:42.9,Wells St & Hubbard St,TA1307000151,McClurg Ct & Ohio St,TA1306000029,41.889906,-87.634266,41.89259212,-87.61728913,casual
+87F2676948D5EFA9,classic_bike,33:58.2,49:40.8,Wells St & Hubbard St,TA1307000151,McClurg Ct & Ohio St,TA1306000029,41.889906,-87.634266,41.89259212,-87.61728913,casual
+27ADFF1CEED7BA62,electric_bike,33:08.2,49:47.3,Wells St & Hubbard St,TA1307000151,McClurg Ct & Ohio St,TA1306000029,41.889906,-87.634266,41.89259212,-87.61728913,casual
+3FF96BBA986A1A7C,electric_bike,33:04.1,49:29.5,Wells St & Hubbard St,TA1307000151,McClurg Ct & Ohio St,TA1306000029,41.889906,-87.634266,41.89259212,-87.61728913,casual
+F26337A0745890F5,classic_bike,11:47.4,21:01.5,Kingsbury St & Erie St,13265,Desplaines St & Jackson Blvd,15539,41.8939139,-87.6417358,41.8781189,-87.6439476,casual
+8BED234C7FEFFC21,electric_bike,51:29.7,05:05.9,DuSable Lake Shore Dr & North Blvd,LF-005,McClurg Ct & Ohio St,TA1306000029,41.911722,-87.626804,41.89259212,-87.61728913,member
+9BDCEEE0A5769A31,classic_bike,37:02.8,50:22.6,DuSable Lake Shore Dr & North Blvd,LF-005,McClurg Ct & Ohio St,TA1306000029,41.911722,-87.626804,41.89259212,-87.61728913,member
+72FA34469AF33267,classic_bike,45:32.0,52:57.1,Wells St & Polk St,SL-011,Adler Planetarium,13431,41.87273154,-87.63351649,41.866095,-87.607267,casual
+F398A6BF7EC1F7C2,classic_bike,32:24.9,57:22.2,DuSable Lake Shore Dr & North Blvd,LF-005,Desplaines St & Jackson Blvd,15539,41.911722,-87.626804,41.8781189,-87.6439476,casual
+603BFDD2225AEB7F,electric_bike,17:44.2,28:12.2,DuSable Lake Shore Dr & North Blvd,LF-005,McClurg Ct & Ohio St,TA1306000029,41.911722,-87.626804,41.89259212,-87.61728913,casual
+5D935059C3903ADB,classic_bike,34:30.3,51:51.5,DuSable Lake Shore Dr & North Blvd,LF-005,McClurg Ct & Ohio St,TA1306000029,41.911722,-87.626804,41.89259212,-87.61728913,casual
+B4B16F9BC184B49F,classic_bike,49:18.2,04:23.3,Wells St & Polk St,SL-011,Stetson Ave & South Water St,TA1308000029,41.87273154,-87.63351649,41.886835,-87.62232,member
+9166AAE230EA808D,classic_bike,37:36.4,52:06.2,Wells St & Polk St,SL-011,Stetson Ave & South Water St,TA1308000029,41.87273154,-87.63351649,41.886835,-87.62232,member
+E1D7768F66D5F2AE,classic_bike,43:50.9,58:33.5,Wells St & Polk St,SL-011,Stetson Ave & South Water St,TA1308000029,41.87273154,-87.63351649,41.886835,-87.62232,member
+41EEAB7BC36AD1B3,classic_bike,05:37.5,29:19.0,Aberdeen St & Monroe St,13156,California Ave & Milwaukee Ave,13084,41.880419,-87.655519,41.922695,-87.697153,member
+C95982686EA9540B,electric_bike,01:05.8,15:24.9,Aberdeen St & Monroe St,13156,,,41.880419,-87.655519,41.92,-87.65,member
+2F189EEB731E754A,electric_bike,35:25.5,47:23.7,Field Blvd & South Water St,15534,,,41.88634906,-87.61751655,41.91,-87.63,member
