@@ -26,7 +26,7 @@ This project follows the 6-step Google Data Analytics framework:
 * `04_ANALYZE_PHASE`: Statistical findings, summary reports, and calculated metrics.
 * `05_SHARE_PHASE`: Tableau dashboard images, visualization design logs, and the final executive slide deck.
 * `06_ACT_PHASE`: The executive summary and strategic implementation plan.
-* `10_RAW_DATA` & `11_CONVERTED_DATA`: Contains the data pipeline structure (Note: raw CSVs excluded from GitHub due to file size limits).
+* `RAW_DATA` & `CONVERTED_DATA`: Contains the data pipeline structure (Note: raw CSVs excluded from GitHub due to file size limits).
 
 ## 📊 Key Insights
 1. **The Core User Base:** Annual members account for 64.2% of all trips, using the system primarily for routine weekday commuting.
